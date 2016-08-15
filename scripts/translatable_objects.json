@@ -1,0 +1,134 @@
+[
+    {
+        "dataElements": "name"
+    },
+    {
+        "dataElements": "shortName"
+    },
+    {
+        "organisationUnits": "name"
+    },
+    {
+        "organisationUnits": "shortName"
+    },
+    {
+        "dataSets": "name"
+    },
+    {
+        "dataSets": "shortName"
+    },
+    {
+        "optionSets": "name"
+    },
+    {
+        "options": "name"
+    },
+    {
+        "organisationUnitLevels": "name"
+    },
+    {
+        "organisationUnitGroups": "name"
+    },
+    {
+        "organisationUnitGroups": "shortName"
+    },
+    {
+        "organisationUnitGroups": "description"
+    },
+    {
+        "organisationUnitGroupSets": "name"
+    },
+    {
+        "organisationUnitGroupSets": "shortName"
+    },
+    {
+        "organisationUnitGroupSets": "description"
+    },
+    {
+        "categoryOptions": "name"
+    },
+    {
+        "categoryOptions": "shortName"
+    },
+    {
+        "categoryOptions": "description"
+    },
+    {
+        "categories": "name"
+    },
+    {
+        "categories": "shortName"
+    },
+    {
+        "categories": "description"
+    },
+    {
+        "categoryCombos": "name"
+    },
+    {
+        "categoryOptionGroups": "name"
+    },
+    {
+        "categoryOptionGroups": "shortName"
+    },
+    {
+        "categoryOptionGroups": "description"
+    },
+    {
+        "categoryOptionGroupSets": "name"
+    },
+    {
+        "categoryOptionGroupSets": "shortName"
+    },
+    {
+        "categoryOptionGroupSets": "description"
+    },
+    {
+        "indicators": "name"
+    },
+    {
+        "indicators": "shortName"
+    },
+    {
+        "validationRules": "name"
+    },
+    {
+        "programs": "name"
+    },
+    {
+        "programs": "shortName"
+    },
+    {
+        "trackedEntityAttributes": "name"
+    },
+    {
+        "trackedEntityAttributes": "shortName"
+    },
+    {
+        "programStages": "name"
+    },
+    {
+        "programRules": "name"
+    },
+    {
+        "programRules": "description"
+    },
+    {
+        "dataElementGroups": "name"
+    },
+    {
+        "dataElementGroups": "shortName"
+    },
+    {
+        "dataElementGroupSets": "name"
+    },
+    {
+        "dataElementGroupSets": "shortName"
+    },
+    {
+        "indicatorTypes": "name"
+    },
+    {
+        "indicatorGroups": "name"
+    }
+]
