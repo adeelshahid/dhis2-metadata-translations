@@ -1,134 +1,74 @@
 [
     {
-        "dataElements": "name"
+        "dataElements": ["name", "shortName","description","formName"]
     },
     {
-        "dataElements": "shortName"
+        "organisationUnits": ["name","shortName"]
     },
     {
-        "organisationUnits": "name"
+        "dataSets": ["name","shortName"]
     },
     {
-        "organisationUnits": "shortName"
+        "optionSets": ["name"]
     },
     {
-        "dataSets": "name"
+        "options": ["name" ]
     },
     {
-        "dataSets": "shortName"
+        "organisationUnitLevels": [ "name"]
     },
     {
-        "optionSets": "name"
+        "organisationUnitGroups": ["name", "shortName"]
     },
     {
-        "options": "name"
+        "organisationUnitGroupSets": [ "name","shortName","description" ]
     },
     {
-        "organisationUnitLevels": "name"
+        "categoryOptions": ["name", "shortName" ]
     },
     {
-        "organisationUnitGroups": "name"
+        "categories": [ "name", "shortName" ]
     },
     {
-        "organisationUnitGroups": "shortName"
+        "categoryCombos": [ "name","shortName" ]
     },
     {
-        "organisationUnitGroups": "description"
+        "categoryOptionGroups": [ "name","shortName" ]
     },
     {
-        "organisationUnitGroupSets": "name"
+        "categoryOptionGroupSets": [ "name","shortName" ]
     },
     {
-        "organisationUnitGroupSets": "shortName"
+        "indicators": [ "name", "shortName" , "description" ]
     },
     {
-        "organisationUnitGroupSets": "description"
+        "validationRules": [ "name" ]
     },
     {
-        "categoryOptions": "name"
+        "programs": [ "name", "shortName" ]
     },
     {
-        "categoryOptions": "shortName"
+        "trackedEntityAttributes":  [ "name","shortName" ]
     },
     {
-        "categoryOptions": "description"
+        "programStages": [ "name" ]
     },
     {
-        "categories": "name"
+        "programRules": [ "name", "description" ]
     },
     {
-        "categories": "shortName"
+        "dataElementGroups":  [ "name", "shortName" ]
     },
     {
-        "categories": "description"
+        "dataElementGroupSets":  [ "name", "shortName" ]
     },
     {
-        "categoryCombos": "name"
+        "indicatorTypes":  [ "name" ]
     },
     {
-        "categoryOptionGroups": "name"
+        "indicatorGroups": [  "name" ]
     },
     {
-        "categoryOptionGroups": "shortName"
-    },
-    {
-        "categoryOptionGroups": "description"
-    },
-    {
-        "categoryOptionGroupSets": "name"
-    },
-    {
-        "categoryOptionGroupSets": "shortName"
-    },
-    {
-        "categoryOptionGroupSets": "description"
-    },
-    {
-        "indicators": "name"
-    },
-    {
-        "indicators": "shortName"
-    },
-    {
-        "validationRules": "name"
-    },
-    {
-        "programs": "name"
-    },
-    {
-        "programs": "shortName"
-    },
-    {
-        "trackedEntityAttributes": "name"
-    },
-    {
-        "trackedEntityAttributes": "shortName"
-    },
-    {
-        "programStages": "name"
-    },
-    {
-        "programRules": "name"
-    },
-    {
-        "programRules": "description"
-    },
-    {
-        "dataElementGroups": "name"
-    },
-    {
-        "dataElementGroups": "shortName"
-    },
-    {
-        "dataElementGroupSets": "name"
-    },
-    {
-        "dataElementGroupSets": "shortName"
-    },
-    {
-        "indicatorTypes": "name"
-    },
-    {
-        "indicatorGroups": "name"
+        "indicatorGroupSets": [  "name","description" ]
     }
 ]
