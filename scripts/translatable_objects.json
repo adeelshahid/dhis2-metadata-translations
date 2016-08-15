@@ -70,5 +70,11 @@
     },
     {
         "indicatorGroupSets": [  "name","description" ]
+    },
+    {
+        "sections": ["name","description"]
+    },
+    {
+        "trackedEntityAttributeGroups" : ["name"]
     }
 ]
