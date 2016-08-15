@@ -1,0 +1,449 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translator@dhis2.org\n"
+"POT-Creation-Date: 2016-08-11 14:00+0100\n"
+"PO-Revision-Date: 2016-08-11 14:00+0100\n"
+"Last-Translator: John Traore <translator@dhis2.org>\n"
+"Language-Team: DHIS2 Development Team <post@dhis2.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. XOFa9yRllQM.description
+msgid "Adolescent Health Trained Staff > Facility Staff"
+msgstr ""
+
+#. bZj2zXX7yV3.description
+msgid "Age is > 28 days, disabled infant death fields (part 1)"
+msgstr ""
+
+#. uZcPZR1LXtW.description
+msgid "Age is > 28 days, disabled infant death fields (part 2)"
+msgstr ""
+
+#. SuhoO4zYZLI.description
+msgid "Age is not set, disabled infant death fields"
+msgstr ""
+
+#. FDi3CgsAO32.description
+msgid ""
+"Show warning when Part 1 is filled without first filling in demographic data"
+msgstr ""
+
+#. Q1kblbyM9tC.description
+msgid "Age under 24 hrs not possible"
+msgstr ""
+
+#. b2UWx1ERomF.description
+msgid "Hide ANC Sections if ANC not offered at facility"
+msgstr ""
+
+#. p66IIOZVd60.description
+msgid "ANC Trained Staff > Facility Staff"
+msgstr ""
+
+#. rhispzm1091.description
+msgid "Format and assign age string in days - Assign age string days"
+msgstr ""
+
+#. rhispzm1093.description
+msgid "Format and assign age string in months - Assign age string months"
+msgstr ""
+
+#. rhispzm1092.description
+msgid "Format and assign age string in weeks - Assign age string weeks"
+msgstr ""
+
+#. rhispzm1087.description
+msgid "Assign BCG due - Assign BCG due"
+msgstr ""
+
+#. rhispzm1058.description
+msgid "Assign BCGNeeded - Assign BCGNeeded"
+msgstr ""
+
+#. rhispzm1085.description
+msgid "Assign BCG not due - Assign BCG not due"
+msgstr ""
+
+#. rhispzm1086.description
+msgid "Assign BCG Repeat not due - Assign BCG Repeat not due"
+msgstr ""
+
+#. rhispzm1071.description
+msgid "Assign DPT1 not due - Assign DPT1 not due"
+msgstr ""
+
+#. rhispzm1072.description
+msgid "Assign DPT2 not due - Assign DPT2 not due"
+msgstr ""
+
+#. rhispzm1073.description
+msgid "Assign DPT3 not due - Assign DPT3 not due"
+msgstr ""
+
+#. rhispzm1074.description
+msgid "Assign DPT due - Assign DPT due"
+msgstr ""
+
+#. rhispzm1030.description
+msgid "Assign DPTNeeded - Assign DPTNeeded"
+msgstr ""
+
+#. rhispzm1082.description
+msgid "Assign Measles1 not due - Assign Measles1 not due"
+msgstr ""
+
+#. rhispzm1083.description
+msgid "Assign Measles2 not due - Assign Measles2 not due"
+msgstr ""
+
+#. rhispzm1084.description
+msgid "Assign Measles due - Assign Measles due"
+msgstr ""
+
+#. rhispzm1050.description
+msgid "Assign measlesNeeded - Assign measlesNeeded"
+msgstr ""
+
+#. rhispzm1065.description
+msgid "Assign OPV0 not due - Assign OPV0 not due"
+msgstr ""
+
+#. rhispzm1066.description
+msgid "Assign OPV1 not due - Assign OPV1 not due"
+msgstr ""
+
+#. rhispzm1067.description
+msgid "Assign OPV2 not due - Assign OPV2 not due"
+msgstr ""
+
+#. rhispzm1068.description
+msgid "Assign OPV3 not due - Assign OPV3 not due"
+msgstr ""
+
+#. rhispzm1069.description
+msgid "Assign OPV4 not due - Assign OPV4 not due"
+msgstr ""
+
+#. rhispzm1070.description
+msgid "Assign OPV due - Assign OPV due"
+msgstr ""
+
+#. rhispzm1022.description
+msgid "Assign OPVNeeded - Assign OPVNeeded"
+msgstr ""
+
+#. rhispzm1075.description
+msgid "Assign PCV1 not due - Assign PCV1 not due"
+msgstr ""
+
+#. rhispzm1076.description
+msgid "Assign PCV2 not due - Assign PCV2 not due"
+msgstr ""
+
+#. rhispzm1077.description
+msgid "Assign PCV3 not due - Assign PCV3 not due"
+msgstr ""
+
+#. rhispzm1078.description
+msgid "Assign PCV due - Assign PCV due"
+msgstr ""
+
+#. rhispzm1038.description
+msgid "Assign PCVNeeded - Assign PCVNeeded"
+msgstr ""
+
+#. rhispzm1079.description
+msgid "Assign RV1 not due - Assign RV1 not due"
+msgstr ""
+
+#. rhispzm1080.description
+msgid "Assign RV2 not due - Assign RV2 not due"
+msgstr ""
+
+#. rhispzm1081.description
+msgid "Assign RV due - Assign RV due"
+msgstr ""
+
+#. rhispzm1044.description
+msgid "Assign RVNeeded - Assign RVNeeded"
+msgstr ""
+
+#. bC56im19lTx.description
+msgid "Birth date is known, hide \"birth date us unknown\" data element"
+msgstr ""
+
+#. mSdda5ltDoi.description
+msgid "Birth date is unknown, hide \"date of birth\" field "
+msgstr ""
+
+#. Q8Am9abKTFJ.description
+msgid "Birth date unknown is unchecked"
+msgstr ""
+
+#. npVHCJ39QZO.description
+msgid "Cause A diagnosis not set"
+msgstr ""
+
+#. HmRzk2UoYF0.description
+msgid "Cause A is underlying"
+msgstr ""
+
+#. hLkLpkwmxlx.description
+msgid "Cause A - specify"
+msgstr ""
+
+#. RrZMPm9gg26.description
+msgid "Cause B diagnosis not set"
+msgstr ""
+
+#. drqdLeOTlLh.description
+msgid "Cause B is underlying"
+msgstr ""
+
+#. H48tvRWnGWK.description
+msgid "Cause B not set"
+msgstr ""
+
+#. ShN7ukrXAig.description
+msgid "Cause B - specify"
+msgstr ""
+
+#. IICbXDbdL6m.description
+msgid "Cause C diagnosis not set"
+msgstr ""
+
+#. OZcaa4PVi1A.description
+msgid "Cause C is underlying"
+msgstr ""
+
+#. EQm1qiMfAV5.description
+msgid "Cause C - specify"
+msgstr ""
+
+#. xQnW2JqS9JP.description
+msgid "Cause D diagnosis not set"
+msgstr ""
+
+#. pBR3cy5lGw1.description
+msgid "Cause D is underlying"
+msgstr ""
+
+#. NREgDr41Oqk.description
+msgid "Cause D - specify"
+msgstr ""
+
+#. DDZ6pEgqKXV.description
+msgid "Date of birth should be before or on date of death"
+msgstr ""
+
+#. t7N6U0gXJGG.description
+msgid "Hide Family Planning Sections if not offerred at this facility"
+msgstr ""
+
+#. i9Vyn5W0EBV.description
+msgid "FP Trained Staff > Facility Staff"
+msgstr ""
+
+#. rhispzm1056.description
+msgid "Hide BCG if previously given - Hide BCG"
+msgstr ""
+
+#. rhispzm1052.description
+msgid "Hide BCG repeat - Hide BCG repeat"
+msgstr ""
+
+#. rhispzm1051.description
+msgid "Hide BCG scar - Hide BCG scar"
+msgstr ""
+
+#. rhispzm1054.description
+msgid ""
+"Hide BCG stockout in case all the BCG dataelements is hidden, OR if BCG was "
+"administered in THIS visit. - Hide BCG stockout"
+msgstr ""
+
+#. rhispzm1059.description
+msgid "Hide breastfeeding - Hide breastfeeding"
+msgstr ""
+
+#. rhispzm1023.description
+msgid "Hide DPT1 if ever given, or age is less than 6 weeks - Hide DPT1"
+msgstr ""
+
+#. rhispzm1025.description
+msgid ""
+"Hide DPT2 if ever given, or if there is not more than 4 weeks since you got "
+"DPT1 - Hide DPT2"
+msgstr ""
+
+#. rhispzm1027.description
+msgid ""
+"Hide DPT3 if ever given, or if there is not more than 4 weeks since you got "
+"DPT2 - Hide DPT3"
+msgstr ""
+
+#. rhispzm1029.description
+msgid ""
+"Hide DPT stockout in case all the DPT dataelements is hidden, OR if DPT was "
+"administered in THIS visit. - Hide DPT stockout"
+msgstr ""
+
+#. rhispzm1045.description
+msgid ""
+"Hide measles1 if ever given, or age is less than 9 months - Hide measles1"
+msgstr ""
+
+#. rhispzm1047.description
+msgid ""
+"Hide measles2 if ever given, or age is less than 18 months or measles 1 not "
+"given - Hide measles2"
+msgstr ""
+
+#. rhispzm1049.description
+msgid ""
+"Hide measles stockout in case all the measles dataelements is hidden, OR if "
+"measles was administered in THIS visit. - Hide Measles stockout"
+msgstr ""
+
+#. p3guzC17TNY.description
+msgid "Hide RMNCH Medicines and Stock if none are stored in facility"
+msgstr ""
+
+#. rhispzm1010.description
+msgid ""
+"Hide OPV0 if ever given, or baby is older than 13 days at the visit - Hide "
+"OPV0"
+msgstr ""
+
+#. rhispzm1012.description
+msgid "Hide OPV1 if ever given, or age is less than 6 weeks - Hide OPV1"
+msgstr ""
+
+#. rhispzm1014.description
+msgid ""
+"Hide OPV2 if ever given, or if there is not more than 4 weeks since you got "
+"OPV1 - Hide OPV2"
+msgstr ""
+
+#. rhispzm1016.description
+msgid ""
+"Hide OPV3 if ever given, or if there is not more than 4 weeks since you got "
+"OPV2 - Hide OPV3"
+msgstr ""
+
+#. rhispzm1018.description
+msgid ""
+"Hide OPV4 if ever given, or the age is less than 9 months, or if opv3 is not"
+" given, or if opv0 IS given. - Hide OPV4"
+msgstr ""
+
+#. rhispzm1021.description
+msgid ""
+"Hide OPV stockout in case all the OPV dataelements is hidden, OR if OPV was "
+"administered in THIS visit. - Hide OPV stockout"
+msgstr ""
+
+#. rhispzm1031.description
+msgid "Hide PCV1 if ever given, or age is less than 6 weeks - Hide PCV1"
+msgstr ""
+
+#. rhispzm1033.description
+msgid ""
+"Hide PCV2 if ever given, or if there is not more than 4 weeks since you got "
+"PCV1 - Hide PCV2"
+msgstr ""
+
+#. rhispzm1035.description
+msgid ""
+"Hide PCV3 if ever given, or if there is not more than 4 weeks since you got "
+"PCV2 - Hide PCV3"
+msgstr ""
+
+#. rhispzm1037.description
+msgid ""
+"Hide PCV stockout in case all the PCV dataelements is hidden, OR if PCV was "
+"administered in THIS visit. - Hide PCV stockout"
+msgstr ""
+
+#. rhispzm1039.description
+msgid "Hide RV1 if ever given, or age is less than 6 weeks - Hide RV1"
+msgstr ""
+
+#. rhispzm1041.description
+msgid ""
+"Hide RV2 if ever given, or if there is not more than 4 weeks since you got "
+"RV1 - Hide RV2"
+msgstr ""
+
+#. rhispzm1043.description
+msgid ""
+"Hide RV stockout in case all the RV dataelements is hidden, OR if RV was "
+"administered in THIS visit. - Hide RV stockout"
+msgstr ""
+
+#. h7riGHi0Tsd.description
+msgid ""
+"If no staff in the facility have been provided with Adolescent health "
+"training, do not ask how many staff have received Adolescent health training"
+msgstr ""
+
+#. PKbE6eNvXqE.description
+msgid ""
+"If no staff in the facility have been provided with ANC training, do not ask"
+" how many staff have received ANC training"
+msgstr ""
+
+#. DCQQktjutTV.description
+msgid ""
+"If no staff in the facility have been provided with FP training, do not ask "
+"how many staff have received FP training"
+msgstr ""
+
+#. Fo1VSYN02WG.description
+msgid ""
+"If no staff in the facility have been provided with IPTp training, do not "
+"ask how many staff have received IPTp training"
+msgstr ""
+
+#. VJUdwGFTuBT.description
+msgid "IPTp Trained Staff > Facility Staff"
+msgstr ""
+
+#. sQ0NuStgj76.description
+msgid "Mother is less than 16 years"
+msgstr ""
+
+#. rhispzm1006.description
+msgid "Populate ages - Populate ages"
+msgstr ""
+
+#. rhispzm1061.description
+msgid "Populate ages based on due date - Populate ages based on due date"
+msgstr ""
+
+#. rhispzm1088.description
+msgid "Populate current age - Populate current age"
+msgstr ""
+
+#. JHORv7d5GtF.description
+msgid "Sex is not female, disable maternal death fields disabled"
+msgstr ""
+
+#. rRr53p4XkKz.description
+msgid ""
+"Show warning when Part 1 is filled without first filling in demographic data"
+msgstr ""
+
+#. rhispzm1094.description
+msgid "Show formatted age String as key-value-pair - Show age String"
+msgstr ""
+
+#. rhispzm1060.description
+msgid ""
+"Show warning when birth weight more than 9kgs - Show warning when birth "
+"weight more than 9kgs"
+msgstr ""

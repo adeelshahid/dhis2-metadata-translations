@@ -1,0 +1,552 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translator@dhis2.org\n"
+"POT-Creation-Date: 2016-08-11 14:00+0100\n"
+"PO-Revision-Date: 2016-08-11 14:00+0100\n"
+"Last-Translator: John Traore <translator@dhis2.org>\n"
+"Language-Team: DHIS2 Development Team <post@dhis2.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. otU5uoEPm2A.name
+msgid "Abortion rate (%)"
+msgstr ""
+
+#. NXIQfHF1nzH.name
+msgid "Adolescent pregnancy rate (%)"
+msgstr ""
+
+#. t4tl4S0Di5n.name
+msgid "Adolescent pregnancy rate in community (%)"
+msgstr ""
+
+#. UT1DJmtzyox.name
+msgid "ANC 1st visit coverage (%)"
+msgstr ""
+
+#. w63xypE82tO.name
+msgid "ANC 1 to 4 drop out rate (%)"
+msgstr ""
+
+#. FgNnsRgCs8r.name
+msgid "ANC 4th visit coverage (%)"
+msgstr ""
+
+#. FynVf4QgO3P.name
+msgid "ANC 4th visit coverage by ANC 1 (%)"
+msgstr ""
+
+#. jxNaEbzrzlB.name
+msgid "ANC IPT3 Coverage in Community (%)"
+msgstr ""
+
+#. ggDwovpCuk6.name
+msgid "ART retention forecast 15-19 years"
+msgstr ""
+
+#. mnFxSgobDTw.name
+msgid "ART retention forecast < 5 years"
+msgstr ""
+
+#. JUvYLsNo43H.name
+msgid "ART retention rate after 12 months (%)"
+msgstr ""
+
+#. gIyVFY53zkn.name
+msgid "ART retention rate after 12 months 15-19 years (%)"
+msgstr ""
+
+#. QogxWKs3hlc.name
+msgid "ART retention rate after 12 months < 5 years (%)"
+msgstr ""
+
+#. TkmzmyHR7zb.name
+msgid "ART retention rate after 12 months - Other (%)"
+msgstr ""
+
+#. R2gqUYkAgeA.name
+msgid "ART retention rate after 12 months - PMTCT (%)"
+msgstr ""
+
+#. G38ZJUZyZ9t.name
+msgid "ART retention rate after 12 months - TB (%)"
+msgstr ""
+
+#. S7vxLF7zYb3.name
+msgid "BCG coverage (%)"
+msgstr ""
+
+#. E35XSxwQAFO.name
+msgid "BCG to MR 1 dropout rate (%)"
+msgstr ""
+
+#. Qw9Iiqs0KQU.name
+msgid "BCG wastage rate (%)"
+msgstr ""
+
+#. LkERaUyD21L.name
+msgid "BEmONC delivery rate (%)"
+msgstr ""
+
+#. NV6Xc9oGJZV.name
+msgid "Breastfeeding without 1 hour after delivery (%)"
+msgstr ""
+
+#. XXDXVGzvSx1.name
+msgid "Caesarean section delivery rate (%)"
+msgstr ""
+
+#. xIf6Owt39GF.name
+msgid "Delivery complication rate - institutional (%)"
+msgstr ""
+
+#. qLpl4igiQWk.name
+msgid "DPT1 coverage (%)"
+msgstr ""
+
+#. ccFcqCkznCR.name
+msgid "DPT 1 to 3 drop out rate (%)"
+msgstr ""
+
+#. PztmUdDakpu.name
+msgid "DPT2 coverage (%)"
+msgstr ""
+
+#. lkpoPvRswsF.name
+msgid "DPT3 coverage (%)"
+msgstr ""
+
+#. V3yTzoxrfVg.name
+msgid "DPT wastage rate (%)"
+msgstr ""
+
+#. gIZqBJ4WzaK.name
+msgid "DTP doses given (total)"
+msgstr ""
+
+#. SuVSBtXz5IP.name
+msgid ""
+"EID: NO OF HEI KNOWN TO BE ALIVE AND ON CTX 6 MONTHS AFTER REGISTRATION"
+msgstr ""
+
+#. sDjcfAWYaLF.name
+msgid "EID: NO OF HEI WHO ARE HIV-INFECTED <12 MOS OF AGE"
+msgstr ""
+
+#. zozxw5IdJeg.name
+msgid "EID: NO OF HEI WHO RECEIVED A VIROLOGICAL TEST BY 2 MOS OF AGE"
+msgstr ""
+
+#. P0uKzlyS0D4.name
+msgid "EID: NO OF INFANTS STARTED ON CTX PROPHYLAXIS BY 2 MOS OF AGE"
+msgstr ""
+
+#. ylFu8fETBd4.name
+msgid "facilities offering combined injectable contraceptives (%)"
+msgstr ""
+
+#. yZJYVqOtIiX.name
+msgid "facilities offering combined oral contraceptive pills (%)"
+msgstr ""
+
+#. BqYng4AE75O.name
+msgid "facilities offering cycle beads (%)"
+msgstr ""
+
+#. jCYWNWCybRJ.name
+msgid "facilities offering emergency contraceptive pills (%)"
+msgstr ""
+
+#. psG0TZlihdM.name
+msgid "facilities offering Family Planning services (%)"
+msgstr ""
+
+#. snFaC8SqQmq.name
+msgid "facilities offering female condoms (%)"
+msgstr ""
+
+#. SWS8BKdRa6E.name
+msgid "facilities offering female sterilization (%)"
+msgstr ""
+
+#. X8pew6eDh1V.name
+msgid "facilities offering implants (%)"
+msgstr ""
+
+#. YjlEmLtTuCF.name
+msgid "facilities offering IUCD (%)"
+msgstr ""
+
+#. ITbuefbKpwb.name
+msgid "facilities offering male condoms (%)"
+msgstr ""
+
+#. wNXP6DruRCe.name
+msgid "facilities offering male sterilization (%)"
+msgstr ""
+
+#. xk03qHlsYgB.name
+msgid "facilities offering progestin-only contraceptive pills (%)"
+msgstr ""
+
+#. tN7KodQAdGp.name
+msgid "facilities offering progestin-only injectable contraceptives (%)"
+msgstr ""
+
+#. peg1j4oqhO8.name
+msgid "facilities offering progestin-only injectable contraceptives (%)"
+msgstr ""
+
+#. hSLs1tkuj2D.name
+msgid "facilities offering TT vaccine (%)"
+msgstr ""
+
+#. sUAF3bSp2XC.name
+msgid "facilities stock-out Emergency contraceptive (%)"
+msgstr ""
+
+#. Vf52wvj6GYz.name
+msgid "facilities stock-out Female condoms (%)"
+msgstr ""
+
+#. PDsoKgw9cQc.name
+msgid "facilities stock-out Implants (%)"
+msgstr ""
+
+#. NMVB4SersbJ.name
+msgid "facilities with Estrogen progesterone oral contraceptive pills (%)"
+msgstr ""
+
+#. bDoJJDRDzDb.name
+msgid "facilities with injectable contraceptives available (%)"
+msgstr ""
+
+#. WQEfgfXHIrH.name
+msgid "facilities with male condoms available (%)"
+msgstr ""
+
+#. avNKzZlSXVP.name
+msgid "facilities with observed ANC check-lists and/or job-aids available (%)"
+msgstr ""
+
+#. Gwte535dgXM.name
+msgid ""
+"facilities with observed family planning check-lists and/or job-aids "
+"available (%)"
+msgstr ""
+
+#. DDsEvh85icw.name
+msgid "facilities with observed guidelines on ANC available (%)"
+msgstr ""
+
+#. SLY3jsuMGOa.name
+msgid "facilities with observed guidelines on family planning available (%)"
+msgstr ""
+
+#. hPbPjsNULTU.name
+msgid "facilities with Progestin-only contraceptive pills available (%)"
+msgstr ""
+
+#. lOUErp5RWGW.name
+msgid "Facility count: Dispensary"
+msgstr ""
+
+#. YssFJPuUnRW.name
+msgid "Fully Immunised coverage (%)"
+msgstr ""
+
+#. bx3tAEUhM2Q.name
+msgid "HEI positivity rate (%)"
+msgstr ""
+
+#. c9QhLf09wBX.name
+msgid "HEI Testing Rate by 2 months (%)"
+msgstr ""
+
+#. emtStVczVXq.name
+msgid "HEI treatment rate (%)"
+msgstr ""
+
+#. HY6UcPnbTLI.name
+msgid "HIV new treatment rate (%)"
+msgstr ""
+
+#. NOTVoniJjCb.name
+msgid "HIV new treatment rate 15-19 years (%)"
+msgstr ""
+
+#. onTVCvHmjMI.name
+msgid "HIV new treatment rate < 5 years (%)"
+msgstr ""
+
+#. DM3seDcddds.name
+msgid "HIV new treatment rate - Other (%)"
+msgstr ""
+
+#. yyYFmFAfW7N.name
+msgid "HIV new treatment rate - PMTCT (%)"
+msgstr ""
+
+#. ceabwLf2RFK.name
+msgid "HIV new treatment rate - TB (%)"
+msgstr ""
+
+#. VL9YRn18ZIv.name
+msgid "HIV prevalence estimated (%)"
+msgstr ""
+
+#. SHX18dGdvqe.name
+msgid "HIV testing rate (% of estimated)"
+msgstr ""
+
+#. FTzlzPsvMDq.name
+msgid "HIV testing rate - PMTCT (% of ANC1)"
+msgstr ""
+
+#. bD67D0kVEJQ.name
+msgid "HIV test positivity rate (%)"
+msgstr ""
+
+#. xzc69CUxXbN.name
+msgid "HIV test positivity rate 15-19 years (%)"
+msgstr ""
+
+#. TQv3lcKHi69.name
+msgid "HIV test positivity rate < 5 years (%)"
+msgstr ""
+
+#. wbmZBqKvdvb.name
+msgid "HIV test positivity rate - Other (%)"
+msgstr ""
+
+#. qFRFe2W8dxE.name
+msgid "HIV test positivity rate - PMTCT(%)"
+msgstr ""
+
+#. Ale7EKhs0lk.name
+msgid "HIV test positivity rate - TB (%)"
+msgstr ""
+
+#. lMRhTK17SDQ.name
+msgid "Institutional delivery rate (%)"
+msgstr ""
+
+#. e7E1nWMN9lW.name
+msgid "Institutional delivery rate by ANC (%)"
+msgstr ""
+
+#. A9HCz9GZ4p4.name
+msgid "Malaria incidence rate (per 1000) estimated"
+msgstr ""
+
+#. sl0RBDYM4Pq.name
+msgid "Malaria testing rate (%)"
+msgstr ""
+
+#. tHq4MRmSmjM.name
+msgid "Malaria treatment rate (%)"
+msgstr ""
+
+#. Hr9y4LsvPog.name
+msgid "Maternal mortality ratio - institutional (per 100 000 deliveries)"
+msgstr ""
+
+#. Gf5EacA7vh9.name
+msgid "Measles coverage (%)"
+msgstr ""
+
+#. QxShpQdLuAt.name
+msgid "MR 1 coverage (%)"
+msgstr ""
+
+#. FhQ8Hd5rCHj.name
+msgid "MR 1 to 2 drop out rate (%)"
+msgstr ""
+
+#. qtFNNLWxIHI.name
+msgid "MR 2 coverage (%)"
+msgstr ""
+
+#. N8eTCfb0qLH.name
+msgid "MR doses given (total)"
+msgstr ""
+
+#. t5ssKnZSw6h.name
+msgid "MR wastage rate (%)"
+msgstr ""
+
+#. X0wuHNxDWdJ.name
+msgid "Neonatal mortality rate - institutional (%)"
+msgstr ""
+
+#. Cl2G3xokU3r.name
+msgid "OPV 0 coverage (%)"
+msgstr ""
+
+#. Ymhoa4DT1ML.name
+msgid "OPV 0 to 3 drop out rate (%)"
+msgstr ""
+
+#. Ld7IRUJYlgq.name
+msgid "OPV 1 coverage (%)"
+msgstr ""
+
+#. anAtTKfKRSQ.name
+msgid "OPV 2 coverage (%)"
+msgstr ""
+
+#. k17O3iXpgiy.name
+msgid "OPV 3 coverage (%)"
+msgstr ""
+
+#. ZXU6uP8DZnE.name
+msgid "OPV doses administered (total)"
+msgstr ""
+
+#. e6PGK5aJ7Dn.name
+msgid "OPV wastage rate (%)"
+msgstr ""
+
+#. is5CMITpYfD.name
+msgid "Outpatient attendance per 1 000 population"
+msgstr ""
+
+#. MRyPXeeiAld.name
+msgid "PCV 1 coverage (%)"
+msgstr ""
+
+#. xZpRC70ueVD.name
+msgid "PCV 1 doses given (total)"
+msgstr ""
+
+#. Ubyf6s4opr4.name
+msgid "PCV 1 to 3 drop out rate (%)"
+msgstr ""
+
+#. Vl2USseLOgF.name
+msgid "PCV 2 coverage (%)"
+msgstr ""
+
+#. S0IzYPGQLnN.name
+msgid "PCV 3 coverage (%)"
+msgstr ""
+
+#. vBWDj9pbnFM.name
+msgid "PCV wastage rate (%)"
+msgstr ""
+
+#. WKPWdSdFRB6.name
+msgid "PHC Facility density"
+msgstr ""
+
+#. zqzX3zcosD5.name
+msgid "PLHIV that are virologically suppressed (%)"
+msgstr ""
+
+#. ux16uCIgdhT.name
+msgid "PLHIV that are virologically suppressed 15-19 years (%)"
+msgstr ""
+
+#. L3HjhNcCQCt.name
+msgid "PLHIV that are virologically suppressed - Other (%)"
+msgstr ""
+
+#. PIhKVYlVZUe.name
+msgid "PLHIV that are virologically suppressed - PMTCT (%)"
+msgstr ""
+
+#. p1kwDk2xUj8.name
+msgid "PLHIV that are virologically suppressed - TB (%)"
+msgstr ""
+
+#. FnsZI5EtuwL.name
+msgid "PMTCT: EST # OF PREGNANT WOMEN"
+msgstr ""
+
+#. P9EiQ7nGkBc.name
+msgid "PMTCT: HEI TESTED BY 2 MONTHS OF AGE"
+msgstr ""
+
+#. d7GYWUzTlq5.name
+msgid "PMTCT: HIV INFECTED INFANTS IDENTIFIED"
+msgstr ""
+
+#. nEOXB3OYjlH.name
+msgid "PMTCT: HIV INFECTED INFANTS NEW ON ART"
+msgstr ""
+
+#. Ri2csYIWjQm.name
+msgid "PMTCT: HIV+ PREG WOMEN IDENTIFIED IN REPORTING PERIOD"
+msgstr ""
+
+#. TROlcyw0Xuh.name
+msgid "PMTCT: HIV+ PREG WOMEN INITIATING ART"
+msgstr ""
+
+#. qXRM4B0LETl.name
+msgid "PMTCT: HIV+ WOMEN RETAINED ON ART AT 12 MONTHS"
+msgstr ""
+
+#. zfhgmy2Svj2.name
+msgid ""
+"PMTCT: Percentage of infants with HIV who initiate ART by 12 months of age"
+msgstr ""
+
+#. TL3hj4IDoN5.name
+msgid "PMTCT: PREGNANT WOMEN WHO ATTEND ANC1"
+msgstr ""
+
+#. lK57OOIgke7.name
+msgid "PMTCT: PREGNANT WOMEN WITH KNOWN HIV STATUS"
+msgstr ""
+
+#. wc3XYCyuxyE.name
+msgid "Post partum care coverage (within 2 days) (%)"
+msgstr ""
+
+#. gNFvUVUHuoq.name
+msgid "RV 1 coverage (%)"
+msgstr ""
+
+#. ha7FrVzCdP7.name
+msgid "RV 2 coverage (%)"
+msgstr ""
+
+#. C615y6CHZZv.name
+msgid "RV doses given (total)"
+msgstr ""
+
+#. btEs5IrKxJ0.name
+msgid "RV wastage rate (%)"
+msgstr ""
+
+#. U7TBCHHQjCo.name
+msgid "Skilled birth attendance (%)"
+msgstr ""
+
+#. qiFphaB88lK.name
+msgid "Skilled birth attendance by ANC 1 (%)"
+msgstr ""
+
+#. fpOhSgdZku2.name
+msgid "TB Treatment completion rate"
+msgstr ""
+
+#. z7YSmfivfnS.name
+msgid "TT doses given (total)"
+msgstr ""
+
+#. jfVvmRI0poZ.name
+msgid "TT wastage rate (%)"
+msgstr ""
+
+#. WSQxTuCGILM.name
+msgid "Yellow fever coverage (%)"
+msgstr ""
+
+#. Nyumtmxj1RB.name
+msgid "YF wastage rate (%)"
+msgstr ""

@@ -1,0 +1,36 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translator@dhis2.org\n"
+"POT-Creation-Date: 2016-08-11 14:00+0100\n"
+"PO-Revision-Date: 2016-08-11 14:00+0100\n"
+"Last-Translator: John Traore <translator@dhis2.org>\n"
+"Language-Team: DHIS2 Development Team <post@dhis2.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. kHy61PbChXr.name
+msgid "Numerator only"
+msgstr ""
+
+#. zpa0vUC7IWd.name
+msgid "Per 1000"
+msgstr ""
+
+#. FWTvArgP0jt.name
+msgid "Per 10 000"
+msgstr ""
+
+#. BY11PjGMCg2.name
+msgid "Per 100 000"
+msgstr ""
+
+#. hmSnCXmLYwt.name
+msgid "Percentage"
+msgstr ""
+
+#. k4RGC3sMTzO.name
+msgid "Rate (factor=1)"
+msgstr ""

@@ -1,0 +1,896 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translator@dhis2.org\n"
+"POT-Creation-Date: 2016-08-11 14:00+0100\n"
+"PO-Revision-Date: 2016-08-11 14:00+0100\n"
+"Last-Translator: John Traore <translator@dhis2.org>\n"
+"Language-Team: DHIS2 Development Team <post@dhis2.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. RPkVoHMDRve.shortName
+msgid "Action Taken by Health Unit"
+msgstr ""
+
+#. sFN70GmCtdI.shortName
+msgid "AFR"
+msgstr ""
+
+#. JoVjUcDEEvj.shortName
+msgid "Acute jaundice syndrome"
+msgstr ""
+
+#. EzI5QoGU8uf.shortName
+msgid "Adolescent health training"
+msgstr ""
+
+#. SYAnXCWCA8U.shortName
+msgid "ADS 0.05 ml stock"
+msgstr ""
+
+#. Ch8QqxnRkqk.shortName
+msgid "ADS 0.5 ml stock"
+msgstr ""
+
+#. eq7TiKSIGYK.shortName
+msgid "ANC1"
+msgstr ""
+
+#. PQnIpK9Q7l1.shortName
+msgid "ANC 1st visit <20 years"
+msgstr ""
+
+#. qqc4NnWVFL9.shortName
+msgid "ANC 1st visit total"
+msgstr ""
+
+#. OWk2WulfJYQ.shortName
+msgid "ANC 4th visit"
+msgstr ""
+
+#. LSh7iy6WdAK.shortName
+msgid "ANC check-list"
+msgstr ""
+
+#. LhekYglyUcP.shortName
+msgid "ANC guidelines"
+msgstr ""
+
+#. OWtbfobYTOy.shortName
+msgid "ANC IPT 3"
+msgstr ""
+
+#. oXb5cXOerm2.shortName
+msgid "ANC offered"
+msgstr ""
+
+#. wAy61VAhLzB.shortName
+msgid "ANC training"
+msgstr ""
+
+#. JPcIC3NSxMQ.shortName
+msgid "Are you reporting during an Outbreak"
+msgstr ""
+
+#. tbYSzH0GzNE.shortName
+msgid "Atl_Alison_mnch Apgar Score"
+msgstr ""
+
+#. bpBUOvqy1Jn.shortName
+msgid "BCG"
+msgstr ""
+
+#. KRF40x6EILp.shortName
+msgid "BCG repeat dose"
+msgstr ""
+
+#. EMcT5j5zR81.shortName
+msgid "BCG scar"
+msgstr ""
+
+#. vj9XOcMYGiP.shortName
+msgid "BCG stock"
+msgstr ""
+
+#. LTdvha8zapG.shortName
+msgid "BCG stockout"
+msgstr ""
+
+#. NCzKGpIQRDU.shortName
+msgid "Bloody diarrhoea"
+msgstr ""
+
+#. x2elXIfRmCX.shortName
+msgid "BP"
+msgstr ""
+
+#. nblG1lFCRsO.shortName
+msgid "Breast Feeding"
+msgstr ""
+
+#. HAMwvlgshdI.shortName
+msgid "Breastfeeding < 1 hr delivery"
+msgstr ""
+
+#. MPRBnJ0Jnhj.shortName
+msgid "Classification"
+msgstr ""
+
+#. uSWatXYqeSx.shortName
+msgid "Classification of result"
+msgstr ""
+
+#. EGGSoFF96Ou.shortName
+msgid "High temperature alarms"
+msgstr ""
+
+#. ggA4RnU3K1s.shortName
+msgid "Low temperature alarms"
+msgstr ""
+
+#. ZYg135fM4ki.shortName
+msgid "Cold chain refrigerator functional"
+msgstr ""
+
+#. wpqHXDuNJ3K.shortName
+msgid "Combined injectable contraceptive_available"
+msgstr ""
+
+#. j8fqk4ENVze.shortName
+msgid "Combined injectable contraceptive_provided"
+msgstr ""
+
+#. avuHye91JN6.shortName
+msgid "Combined oral contraceptive_available"
+msgstr ""
+
+#. UGx7XOmXpmn.shortName
+msgid "Combined oral contraceptive_provided"
+msgstr ""
+
+#. ZidU9xVKkSr.shortName
+msgid "Combined oral contraceptive_unmarried"
+msgstr ""
+
+#. vqRf9Kc0c3j.shortName
+msgid "Contraceptives stocked"
+msgstr ""
+
+#. WlIjcaGOBDR.shortName
+msgid "Cycle beads_provided"
+msgstr ""
+
+#. MeL8nUDlUHx.shortName
+msgid "Data generator test"
+msgstr ""
+
+#. qTIZmQrJKfq.shortName
+msgid "Date of Death (yyyy/mm/dd)"
+msgstr ""
+
+#. VeFa9skogcA.shortName
+msgid "Date of last vaccination (yyyy/mm/dd)"
+msgstr ""
+
+#. WII4Nk7WGS7.shortName
+msgid "Date of Shipment"
+msgstr ""
+
+#. TICU6ZgKney.shortName
+msgid "Date sample collected"
+msgstr ""
+
+#. MUcJqazHk0C.shortName
+msgid "Date sample sent to the lab"
+msgstr ""
+
+#. Txvo3x9TKMB.shortName
+msgid "Deliveries by C/S"
+msgstr ""
+
+#. tLCneyNxhij.shortName
+msgid "Skilled deliveries"
+msgstr ""
+
+#. hukrv1JiMTK.shortName
+msgid "BEmONC deliveries"
+msgstr ""
+
+#. LudObJx9XaG.shortName
+msgid "Deliveries with complications"
+msgstr ""
+
+#. hJJlOnVOkV2.shortName
+msgid "DPT1/Penta1 doses given"
+msgstr ""
+
+#. lHnact7BRVU.shortName
+msgid "DPT2/Penta2 doses given"
+msgstr ""
+
+#. TWWbtMMWD51.shortName
+msgid "DPT3/Penta3 doses given"
+msgstr ""
+
+#. K3TcJM1ySQA.shortName
+msgid "DPT-HepB-Hib1"
+msgstr ""
+
+#. GPOoPDqle3V.shortName
+msgid "DPT-HepB-Hib2"
+msgstr ""
+
+#. pxCZNoqDVJC.shortName
+msgid "DPT-HepB-Hib3"
+msgstr ""
+
+#. RGP6mx5xG1Y.shortName
+msgid "DPT stock"
+msgstr ""
+
+#. LQVqn0ghg99.shortName
+msgid "DPT stockout"
+msgstr ""
+
+#. ivIPtt0S15D.shortName
+msgid "Emergency contraceptives_available"
+msgstr ""
+
+#. vCwvyUODX9R.shortName
+msgid "Emergency contraceptives_provided"
+msgstr ""
+
+#. IUVueL1Dkz5.shortName
+msgid "Emergency contraceptives_unmarried"
+msgstr ""
+
+#. XCpEe0yBfRL.shortName
+msgid "Emergency contracptive pills_stock out"
+msgstr ""
+
+#. Ddee0hUYsHl.shortName
+msgid "Estimated LMP"
+msgstr ""
+
+#. ORYyhLEyzrA.shortName
+msgid "PLHIV estimate"
+msgstr ""
+
+#. WBmvvafUwT8.shortName
+msgid "Expected pregnancies"
+msgstr ""
+
+#. WHIJKgKIvST.shortName
+msgid "Family planning check-lists"
+msgstr ""
+
+#. MJ0pGzPqz5l.shortName
+msgid "Family planning guidelines"
+msgstr ""
+
+#. ud9xPpk4GZQ.shortName
+msgid "Family Planning Offered"
+msgstr ""
+
+#. tKJxILGNFf1.shortName
+msgid "Family planning training"
+msgstr ""
+
+#. NXjsZrjp7ls.shortName
+msgid "Female Condoms_available"
+msgstr ""
+
+#. X1Uq6wsXdqd.shortName
+msgid "Female Condoms_provided"
+msgstr ""
+
+#. mKmi1GMjNB9.shortName
+msgid "Female condoms_stock out"
+msgstr ""
+
+#. gJ5df9OrMJt.shortName
+msgid "Female sterilization_provided"
+msgstr ""
+
+#. UecQl6ZHedk.shortName
+msgid "Folic acid supplementation"
+msgstr ""
+
+#. qwt8pMJfuk7.shortName
+msgid "Fully immunised children"
+msgstr ""
+
+#. QJx4bbKxvsM.shortName
+msgid "Gravidity"
+msgstr ""
+
+#. YhEY756uCuP.shortName
+msgid "Has been vaccinated?"
+msgstr ""
+
+#. lEOJBiFHkSH.shortName
+msgid "Has sample been taken?"
+msgstr ""
+
+#. HcQhsr5QZ0U.shortName
+msgid "HEI tested by  2 months age"
+msgstr ""
+
+#. hGCrMQS0K1N.shortName
+msgid "HIV deaths"
+msgstr ""
+
+#. xMymnMa3uF4.shortName
+msgid "HIV infected infants identified"
+msgstr ""
+
+#. qiWNX1crcF0.shortName
+msgid "HIV infected infants new on ART"
+msgstr ""
+
+#. sX7pWYXIVIi.shortName
+msgid "HIV tests performed"
+msgstr ""
+
+#. W19KeR5yuWm.shortName
+msgid "HIV tests performed (o)"
+msgstr ""
+
+#. O6wdXKIZ5L2.shortName
+msgid "HIV tests positive"
+msgstr ""
+
+#. yqGMyktY9F1.shortName
+msgid "HIV tests positive (o)"
+msgstr ""
+
+#. w5f8SlILRDw.shortName
+msgid "Hypertension monitoring"
+msgstr ""
+
+#. jiUufcaD9Xg.shortName
+msgid "Identified signs/ Symptoms"
+msgstr ""
+
+#. JXsWFsYizF8.shortName
+msgid "Implants_available"
+msgstr ""
+
+#. iW172odEAZf.shortName
+msgid "Implants_provided"
+msgstr ""
+
+#. Xz74NTRYgx4.shortName
+msgid "Implant_stock out"
+msgstr ""
+
+#. J23SH2AH9MB.shortName
+msgid "ILI"
+msgstr ""
+
+#. iGKV5qlVwYb.shortName
+msgid "Institutional deliveries"
+msgstr ""
+
+#. mZGxpRWsFou.shortName
+msgid "IPT dose given"
+msgstr ""
+
+#. qZTdl7Es6fl.shortName
+msgid "IPTp for malaria"
+msgstr ""
+
+#. uEsqOn8kbaU.shortName
+msgid "IPTp guidelines"
+msgstr ""
+
+#. KfdBJLYrMWn.shortName
+msgid "IPTp training"
+msgstr ""
+
+#. pXSgZ7NTI0R.shortName
+msgid "Iron supplementation"
+msgstr ""
+
+#. dmw48KmtnVF.shortName
+msgid "IUCD_available"
+msgstr ""
+
+#. IHXINaROgPm.shortName
+msgid "IUCD_provided"
+msgstr ""
+
+#. TmQdkAuffO8.shortName
+msgid "IUCD_unmarried"
+msgstr ""
+
+#. zAtGheO8xlA.shortName
+msgid "Laboratory name"
+msgstr ""
+
+#. orOslmggwx7.shortName
+msgid "Laboratory request ID"
+msgstr ""
+
+#. Gn4XfTHkPGM.shortName
+msgid "Live births"
+msgstr ""
+
+#. XGkON51Tslx.shortName
+msgid "Low birth weight"
+msgstr ""
+
+#. WIcVbFu7WhK.shortName
+msgid "Malaria estimate"
+msgstr ""
+
+#. dZr0hVahITU.shortName
+msgid "Male Condoms_available"
+msgstr ""
+
+#. nynuNLAhivO.shortName
+msgid "Male Condoms_provided"
+msgstr ""
+
+#. ywPuIsNblTK.shortName
+msgid "Male Condoms_unmarried"
+msgstr ""
+
+#. glswR6LgmLg.shortName
+msgid "Male sterilization_provided"
+msgstr ""
+
+#. NSWRFUpwYSs.shortName
+msgid "Maternal deaths"
+msgstr ""
+
+#. g8dMiUOTFla.shortName
+msgid "Measles 1"
+msgstr ""
+
+#. Bxh1xgIY9nA.shortName
+msgid "Measles 2"
+msgstr ""
+
+#. zGEktQ8O3xP.shortName
+msgid "Measles cases "
+msgstr ""
+
+#. n4qKY8vxc7V.shortName
+msgid "Measles stockout"
+msgstr ""
+
+#. kGrnHR9zV2G.shortName
+msgid "MR 1 doses given"
+msgstr ""
+
+#. Lyvx6Ltz5U2.shortName
+msgid "MR 2 doses given"
+msgstr ""
+
+#. XZoyBSWNrmQ.shortName
+msgid "MR stock"
+msgstr ""
+
+#. cvDEEbxyL3k.shortName
+msgid "Name of Requester"
+msgstr ""
+
+#. C0AIlaZdXDA.shortName
+msgid "Name of Shipper"
+msgstr ""
+
+#. uMpsPvjYhvp.shortName
+msgid "Name of the reciever"
+msgstr ""
+
+#. vxRYAzMODjO.shortName
+msgid "Neonatal deaths"
+msgstr ""
+
+#. klP8xEwvuZF.shortName
+msgid "Number of doses"
+msgstr ""
+
+#. U9Ign5632j9.shortName
+msgid "Olav tmp HIV test"
+msgstr ""
+
+#. voPBDzxS44S.shortName
+msgid "Olav tmp HIV test+"
+msgstr ""
+
+#. no7SkAxepi7.shortName
+msgid "OPV 0"
+msgstr ""
+
+#. Tuoi3Ilwu9i.shortName
+msgid "OPV 0 doses given"
+msgstr ""
+
+#. CfPM8lsEMzH.shortName
+msgid "OPV 1"
+msgstr ""
+
+#. SaS0kTJ50dS.shortName
+msgid "OPV 1 doses given"
+msgstr ""
+
+#. sDORmAKh32v.shortName
+msgid "OPV 2"
+msgstr ""
+
+#. z5tTcNI3L0b.shortName
+msgid "OPV 2 doses given"
+msgstr ""
+
+#. nQeUfqPjK5o.shortName
+msgid "OPV 3"
+msgstr ""
+
+#. h9h4KeW4OMg.shortName
+msgid "OPV 3 doses given"
+msgstr ""
+
+#. cNA9EmFaiAa.shortName
+msgid "OPV 4"
+msgstr ""
+
+#. jLzzW5qvA2r.shortName
+msgid "OPV stock"
+msgstr ""
+
+#. EYQp1U4tU9z.shortName
+msgid "OPV stockout"
+msgstr ""
+
+#. HdzfEcDLnhX.shortName
+msgid "Origin Code"
+msgstr ""
+
+#. bj8Y8eduv1Q.shortName
+msgid "Outreach sessions held"
+msgstr ""
+
+#. zTC8xO4hdoU.shortName
+msgid "Outreach sessions planned"
+msgstr ""
+
+#. Xk9b7yvFi5B.shortName
+msgid "Parity"
+msgstr ""
+
+#. HgtY6rFKGzo.shortName
+msgid "Patient Care Status"
+msgstr ""
+
+#. Uj7BJ67K1ZN.shortName
+msgid "Patient Outcome"
+msgstr ""
+
+#. RxIYC4IGN8G.shortName
+msgid "Patient Status"
+msgstr ""
+
+#. fmXCCPENnwR.shortName
+msgid "PCV 1"
+msgstr ""
+
+#. A7VWYLfm5W1.shortName
+msgid "PCV 1 doses given"
+msgstr ""
+
+#. PvHUllrtPiy.shortName
+msgid "PCV 2"
+msgstr ""
+
+#. ag0n0p794wu.shortName
+msgid "PCV 2 doses given"
+msgstr ""
+
+#. B4eJCy6LFLZ.shortName
+msgid "PCV 3"
+msgstr ""
+
+#. w2qKmMHXW8A.shortName
+msgid "PCV 3 doses given"
+msgstr ""
+
+#. smpU5iethlL.shortName
+msgid "PCV stock"
+msgstr ""
+
+#. fyvXreKLZNn.shortName
+msgid "PCV stockout"
+msgstr ""
+
+#. qhU6EvPfJvi.shortName
+msgid "Phone Number of Requester"
+msgstr ""
+
+#. kcIuDtdn1f9.shortName
+msgid "Currently in care"
+msgstr ""
+
+#. GB8vLkJTRaP.shortName
+msgid "Currently in care 15-19 years"
+msgstr ""
+
+#. epilPusoe08.shortName
+msgid "Currently in care < 5 years"
+msgstr ""
+
+#. mqIVTKwfWl7.shortName
+msgid "Currently on ART"
+msgstr ""
+
+#. g31ZzVvPID0.shortName
+msgid "New on ART (o)"
+msgstr ""
+
+#. zG6feyqbeI7.shortName
+msgid "Retained on ART last 12 months"
+msgstr ""
+
+#. aCkpxvnPfPU.shortName
+msgid "Started ART 12 months ago"
+msgstr ""
+
+#. SJhkOoSLtlD.shortName
+msgid "Started ART 12 months ago < 15-19 years"
+msgstr ""
+
+#. mMq620vRQT6.shortName
+msgid "Started ART 12 months ago < 5 years"
+msgstr ""
+
+#. o8blexx4SAI.shortName
+msgid "Virologically suppressed"
+msgstr ""
+
+#. MMDEdginCSv.shortName
+msgid "Viral load tests"
+msgstr ""
+
+#. kGB1uxpY0P0.shortName
+msgid "Viral load tests 15-19 years"
+msgstr ""
+
+#. u6THc30dyMf.shortName
+msgid "Viral load tests < 5 years"
+msgstr ""
+
+#. aBpJPej3lyE.shortName
+msgid "Population < 1 y"
+msgstr ""
+
+#. RKeoBbjqF8z.shortName
+msgid "Population < 5 y"
+msgstr ""
+
+#. qXTJvDqgq30.shortName
+msgid "Population at risk of malaria"
+msgstr ""
+
+#. DkmMEcubiPv.shortName
+msgid "Population Total"
+msgstr ""
+
+#. aD5DtjWx1FY.shortName
+msgid "Population WRA"
+msgstr ""
+
+#. SIVUMlByXNJ.shortName
+msgid "Postpartum care within 2 days"
+msgstr ""
+
+#. O4GeQTPAtHV.shortName
+msgid "Progestin-only injectable_available"
+msgstr ""
+
+#. wdOKqu4JlrI.shortName
+msgid "Progestin-only injectable_provided"
+msgstr ""
+
+#. olfx3MCL7GF.shortName
+msgid "Progestin-only oral_available"
+msgstr ""
+
+#. cp02HQwmnaO.shortName
+msgid "Progestin-only oral_provided"
+msgstr ""
+
+#. KPjMlc8litX.shortName
+msgid "Prolonged Fever"
+msgstr ""
+
+#. HEtrAVWWNWu.shortName
+msgid "Rota stock"
+msgstr ""
+
+#. nIqQYeSwU9E.shortName
+msgid "RV 1"
+msgstr ""
+
+#. e8CQ1VjzOnL.shortName
+msgid "RV 1 doses given"
+msgstr ""
+
+#. wYg2gOWSyJG.shortName
+msgid "RV 2"
+msgstr ""
+
+#. GxvFEXfTWcN.shortName
+msgid "RV 2 doses given"
+msgstr ""
+
+#. irQPcNG21Uf.shortName
+msgid "RV stockout"
+msgstr ""
+
+#. XLHFzUzuKOy.shortName
+msgid "Safety boxes stock"
+msgstr ""
+
+#. CfIXMevopn9.shortName
+msgid "Sample Test result (Number - Range)"
+msgstr ""
+
+#. vWzprjvsejf.shortName
+msgid "Sample Test result (Positive/Negative)"
+msgstr ""
+
+#. gfyOTsK0thB.shortName
+msgid "Sdilution 2ml stock"
+msgstr ""
+
+#. Vfu6scvhSXi.shortName
+msgid "Sdilution 5ml stock"
+msgstr ""
+
+#. x8P6umhpmdz.shortName
+msgid "Staff - Adolescent Health Training"
+msgstr ""
+
+#. plbaQZltZr7.shortName
+msgid "Staff - ANC Training"
+msgstr ""
+
+#. vKcagXew9Zm.shortName
+msgid "Staff - Facility"
+msgstr ""
+
+#. A9ozqsh0OZQ.shortName
+msgid "Staff - Family Planning Training"
+msgstr ""
+
+#. YR6D4CV8j1V.shortName
+msgid "Staff - IPTp Training"
+msgstr ""
+
+#. xU1SVCCoKPi.shortName
+msgid "Status of the sample"
+msgstr ""
+
+#. rFt7kbJ78S1.shortName
+msgid "Suspected AEFI - mild"
+msgstr ""
+
+#. Am7dwpJpxxO.shortName
+msgid "Suspected AEFI - severe"
+msgstr ""
+
+#. epJwEj2yL7Y.shortName
+msgid "Dengue"
+msgstr ""
+
+#. RGCau1nwMJM.shortName
+msgid "Suspected Disease/Case"
+msgstr ""
+
+#. et2jVMdDApL.shortName
+msgid "TB new on treatment"
+msgstr ""
+
+#. mkK0QUtUlwn.shortName
+msgid "TB test +ve"
+msgstr ""
+
+#. YtKBVgRdqVl.shortName
+msgid "TB Treatment Completed"
+msgstr ""
+
+#. DFLnvbOyBV3.shortName
+msgid "Test requested"
+msgstr ""
+
+#. dmHORruAHUU.shortName
+msgid "Test result description"
+msgstr ""
+
+#. MRQzf1h6jxU.shortName
+msgid "Tetanus toxoid"
+msgstr ""
+
+#. QItYVkD4cet.shortName
+msgid "Total inpatient deaths"
+msgstr ""
+
+#. x0ntYziG5VN.shortName
+msgid "Total inpatient discharges"
+msgstr ""
+
+#. OCoorCve4yV.shortName
+msgid "Total outpatients"
+msgstr ""
+
+#. hFvBk2Pr5uh.shortName
+msgid "Treatment provided"
+msgstr ""
+
+#. FSkpxHTkqLN.shortName
+msgid "TT 1 doses given"
+msgstr ""
+
+#. KKTW2h1CzRK.shortName
+msgid "TT 2 doses given"
+msgstr ""
+
+#. C6JUTIT9b7f.shortName
+msgid "TT 3 doses given"
+msgstr ""
+
+#. Fqf7g1SMZPO.shortName
+msgid "TT 4 doses given"
+msgstr ""
+
+#. Y4eiHr1VKSp.shortName
+msgid "TT 5 doses given"
+msgstr ""
+
+#. BKuys95yN1Z.shortName
+msgid "TT stock"
+msgstr ""
+
+#. IC9XEEsodGI.shortName
+msgid "Type of Case"
+msgstr ""
+
+#. AJ3xqlLOcay.shortName
+msgid "Type of sample"
+msgstr ""
+
+#. CoxQ218gmSO.shortName
+msgid "Vaccination cards stock"
+msgstr ""
+
+#. P7PfqI0iqoX.shortName
+msgid "Watery diarrheoa"
+msgstr ""
+
+#. e89hG7SQsau.shortName
+msgid "Weight (in kg)"
+msgstr ""
+
+#. e8ROcIxppXJ.shortName
+msgid "Women receiving IPTp 1"
+msgstr ""
+
+#. YKDypDPlEHm.shortName
+msgid "Women receiving IPTp 2"
+msgstr ""
+
+#. vC4lN60iPE9.shortName
+msgid "Women receiving IPTp 4"
+msgstr ""
+
+#. wlyoQSROP3w.shortName
+msgid "YF doses given"
+msgstr ""
+
+#. UaKeVOQa9pJ.shortName
+msgid "YF stock"
+msgstr ""

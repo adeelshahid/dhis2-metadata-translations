@@ -1,0 +1,896 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translator@dhis2.org\n"
+"POT-Creation-Date: 2016-08-11 14:00+0100\n"
+"PO-Revision-Date: 2016-08-11 14:00+0100\n"
+"Last-Translator: John Traore <translator@dhis2.org>\n"
+"Language-Team: DHIS2 Development Team <post@dhis2.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. RPkVoHMDRve.name
+msgid "Action Taken by Health Unit"
+msgstr ""
+
+#. sFN70GmCtdI.name
+msgid "Acute Fever and Rash"
+msgstr ""
+
+#. JoVjUcDEEvj.name
+msgid "Acute jaundice syndrome"
+msgstr ""
+
+#. EzI5QoGU8uf.name
+msgid "Adolescent health training"
+msgstr ""
+
+#. SYAnXCWCA8U.name
+msgid "ADS 0.05 ml stock"
+msgstr ""
+
+#. Ch8QqxnRkqk.name
+msgid "ADS 0.5 ml stock"
+msgstr ""
+
+#. eq7TiKSIGYK.name
+msgid "ANC 1rst visit"
+msgstr ""
+
+#. PQnIpK9Q7l1.name
+msgid "ANC 1st visit <20 years"
+msgstr ""
+
+#. qqc4NnWVFL9.name
+msgid "ANC 1st visit total"
+msgstr ""
+
+#. OWk2WulfJYQ.name
+msgid "ANC 4th visit"
+msgstr ""
+
+#. LSh7iy6WdAK.name
+msgid "ANC check-list"
+msgstr ""
+
+#. LhekYglyUcP.name
+msgid "ANC guidelines"
+msgstr ""
+
+#. OWtbfobYTOy.name
+msgid "ANC IPT 3"
+msgstr ""
+
+#. oXb5cXOerm2.name
+msgid "ANC offered"
+msgstr ""
+
+#. wAy61VAhLzB.name
+msgid "ANC training"
+msgstr ""
+
+#. JPcIC3NSxMQ.name
+msgid "Are you reporting during an Outbreak"
+msgstr ""
+
+#. tbYSzH0GzNE.name
+msgid "Atl_Alison_mnch Apgar Score"
+msgstr ""
+
+#. bpBUOvqy1Jn.name
+msgid "BCG"
+msgstr ""
+
+#. KRF40x6EILp.name
+msgid "BCG repeat dose"
+msgstr ""
+
+#. EMcT5j5zR81.name
+msgid "BCG scar"
+msgstr ""
+
+#. vj9XOcMYGiP.name
+msgid "BCG stock"
+msgstr ""
+
+#. LTdvha8zapG.name
+msgid "BCG stockout"
+msgstr ""
+
+#. NCzKGpIQRDU.name
+msgid "Bloody diarrhoea"
+msgstr ""
+
+#. x2elXIfRmCX.name
+msgid "BP"
+msgstr ""
+
+#. nblG1lFCRsO.name
+msgid "Breast Feeding"
+msgstr ""
+
+#. HAMwvlgshdI.name
+msgid "Breastfeeding without 1 hour after delivery"
+msgstr ""
+
+#. MPRBnJ0Jnhj.name
+msgid "Classification"
+msgstr ""
+
+#. uSWatXYqeSx.name
+msgid "Classification of result"
+msgstr ""
+
+#. EGGSoFF96Ou.name
+msgid "Cold chain high temperature alarms"
+msgstr ""
+
+#. ggA4RnU3K1s.name
+msgid "Cold chain low temperature alarms"
+msgstr ""
+
+#. ZYg135fM4ki.name
+msgid "Cold chain refrigerator functional"
+msgstr ""
+
+#. wpqHXDuNJ3K.name
+msgid "Combined injectable contraceptive_available"
+msgstr ""
+
+#. j8fqk4ENVze.name
+msgid "Combined injectable contraceptive_provided"
+msgstr ""
+
+#. avuHye91JN6.name
+msgid "Combined oral contraceptive_available"
+msgstr ""
+
+#. UGx7XOmXpmn.name
+msgid "Combined oral contraceptive_provided"
+msgstr ""
+
+#. ZidU9xVKkSr.name
+msgid "Combined oral contraceptive_unmarried"
+msgstr ""
+
+#. vqRf9Kc0c3j.name
+msgid "Contraceptives stocked"
+msgstr ""
+
+#. WlIjcaGOBDR.name
+msgid "Cycle beads_provided"
+msgstr ""
+
+#. MeL8nUDlUHx.name
+msgid "Data generator test"
+msgstr ""
+
+#. qTIZmQrJKfq.name
+msgid "Date of Death (yyyy/mm/dd)"
+msgstr ""
+
+#. VeFa9skogcA.name
+msgid "Date of last vaccination (yyyy/mm/dd)"
+msgstr ""
+
+#. WII4Nk7WGS7.name
+msgid "Date of Shipment"
+msgstr ""
+
+#. TICU6ZgKney.name
+msgid "Date sample collected"
+msgstr ""
+
+#. MUcJqazHk0C.name
+msgid "Date sample sent to the lab"
+msgstr ""
+
+#. Txvo3x9TKMB.name
+msgid "Deliveries by Caesarean Section"
+msgstr ""
+
+#. tLCneyNxhij.name
+msgid "Deliveries by skilled birth attendants"
+msgstr ""
+
+#. hukrv1JiMTK.name
+msgid "Deliveries with BEmONC interventions"
+msgstr ""
+
+#. LudObJx9XaG.name
+msgid "Deliveries with complications"
+msgstr ""
+
+#. hJJlOnVOkV2.name
+msgid "DPT1/Penta1 doses given"
+msgstr ""
+
+#. lHnact7BRVU.name
+msgid "DPT2/Penta2 doses given"
+msgstr ""
+
+#. TWWbtMMWD51.name
+msgid "DPT3/Penta3 doses given"
+msgstr ""
+
+#. K3TcJM1ySQA.name
+msgid "DPT-HepB-Hib1"
+msgstr ""
+
+#. GPOoPDqle3V.name
+msgid "DPT-HepB-Hib2"
+msgstr ""
+
+#. pxCZNoqDVJC.name
+msgid "DPT-HepB-Hib3"
+msgstr ""
+
+#. RGP6mx5xG1Y.name
+msgid "DPT stock"
+msgstr ""
+
+#. LQVqn0ghg99.name
+msgid "DPT stockout"
+msgstr ""
+
+#. ivIPtt0S15D.name
+msgid "Emergency contraceptives_available"
+msgstr ""
+
+#. vCwvyUODX9R.name
+msgid "Emergency contraceptives_provided"
+msgstr ""
+
+#. IUVueL1Dkz5.name
+msgid "Emergency contraceptives_unmarried"
+msgstr ""
+
+#. XCpEe0yBfRL.name
+msgid "Emergency contracptive pills_stock out"
+msgstr ""
+
+#. Ddee0hUYsHl.name
+msgid "Estimated LMP"
+msgstr ""
+
+#. ORYyhLEyzrA.name
+msgid "Estimated people living with HIV"
+msgstr ""
+
+#. WBmvvafUwT8.name
+msgid "Expected pregnancies"
+msgstr ""
+
+#. WHIJKgKIvST.name
+msgid "Family planning check-lists"
+msgstr ""
+
+#. MJ0pGzPqz5l.name
+msgid "Family planning guidelines"
+msgstr ""
+
+#. ud9xPpk4GZQ.name
+msgid "Family Planning Offered"
+msgstr ""
+
+#. tKJxILGNFf1.name
+msgid "Family planning training"
+msgstr ""
+
+#. NXjsZrjp7ls.name
+msgid "Female Condoms_available"
+msgstr ""
+
+#. X1Uq6wsXdqd.name
+msgid "Female Condoms_provided"
+msgstr ""
+
+#. mKmi1GMjNB9.name
+msgid "Female condoms_stock out"
+msgstr ""
+
+#. gJ5df9OrMJt.name
+msgid "Female sterilization_provided"
+msgstr ""
+
+#. UecQl6ZHedk.name
+msgid "Folic acid supplementation"
+msgstr ""
+
+#. qwt8pMJfuk7.name
+msgid "Fully immunised children"
+msgstr ""
+
+#. QJx4bbKxvsM.name
+msgid "Gravidity"
+msgstr ""
+
+#. YhEY756uCuP.name
+msgid "Has been vaccinated?"
+msgstr ""
+
+#. lEOJBiFHkSH.name
+msgid "Has sample been taken?"
+msgstr ""
+
+#. HcQhsr5QZ0U.name
+msgid "HEI tested by  2 months age"
+msgstr ""
+
+#. hGCrMQS0K1N.name
+msgid "HIV deaths"
+msgstr ""
+
+#. xMymnMa3uF4.name
+msgid "HIV infected infants identified"
+msgstr ""
+
+#. qiWNX1crcF0.name
+msgid "HIV infected infants new on ART"
+msgstr ""
+
+#. sX7pWYXIVIi.name
+msgid "HIV tests performed"
+msgstr ""
+
+#. W19KeR5yuWm.name
+msgid "HIV tests performed (old)"
+msgstr ""
+
+#. O6wdXKIZ5L2.name
+msgid "HIV tests positive"
+msgstr ""
+
+#. yqGMyktY9F1.name
+msgid "HIV tests positive (old)"
+msgstr ""
+
+#. w5f8SlILRDw.name
+msgid "Hypertension monitoring"
+msgstr ""
+
+#. jiUufcaD9Xg.name
+msgid "Identified signs/ Symptoms"
+msgstr ""
+
+#. JXsWFsYizF8.name
+msgid "Implants_available"
+msgstr ""
+
+#. iW172odEAZf.name
+msgid "Implants_provided"
+msgstr ""
+
+#. Xz74NTRYgx4.name
+msgid "Implant_stock out"
+msgstr ""
+
+#. J23SH2AH9MB.name
+msgid "Influenza-like illness"
+msgstr ""
+
+#. iGKV5qlVwYb.name
+msgid "Institutional deliveries"
+msgstr ""
+
+#. mZGxpRWsFou.name
+msgid "IPT dose given"
+msgstr ""
+
+#. qZTdl7Es6fl.name
+msgid "IPTp for malaria"
+msgstr ""
+
+#. uEsqOn8kbaU.name
+msgid "IPTp guidelines"
+msgstr ""
+
+#. KfdBJLYrMWn.name
+msgid "IPTp training"
+msgstr ""
+
+#. pXSgZ7NTI0R.name
+msgid "Iron supplementation"
+msgstr ""
+
+#. dmw48KmtnVF.name
+msgid "IUCD_available"
+msgstr ""
+
+#. IHXINaROgPm.name
+msgid "IUCD_provided"
+msgstr ""
+
+#. TmQdkAuffO8.name
+msgid "IUCD_unmarried"
+msgstr ""
+
+#. zAtGheO8xlA.name
+msgid "Laboratory name"
+msgstr ""
+
+#. orOslmggwx7.name
+msgid "Laboratory request ID"
+msgstr ""
+
+#. Gn4XfTHkPGM.name
+msgid "Live births"
+msgstr ""
+
+#. XGkON51Tslx.name
+msgid "Low birth weight ( < 2.5 kg)"
+msgstr ""
+
+#. WIcVbFu7WhK.name
+msgid "Malaria estimate"
+msgstr ""
+
+#. dZr0hVahITU.name
+msgid "Male Condoms_available"
+msgstr ""
+
+#. nynuNLAhivO.name
+msgid "Male Condoms_provided"
+msgstr ""
+
+#. ywPuIsNblTK.name
+msgid "Male Condoms_unmarried"
+msgstr ""
+
+#. glswR6LgmLg.name
+msgid "Male sterilization_provided"
+msgstr ""
+
+#. NSWRFUpwYSs.name
+msgid "Maternal deaths"
+msgstr ""
+
+#. g8dMiUOTFla.name
+msgid "Measles 1"
+msgstr ""
+
+#. Bxh1xgIY9nA.name
+msgid "Measles 2"
+msgstr ""
+
+#. zGEktQ8O3xP.name
+msgid "Measles cases "
+msgstr ""
+
+#. n4qKY8vxc7V.name
+msgid "Measles stockout"
+msgstr ""
+
+#. kGrnHR9zV2G.name
+msgid "MR 1 doses given"
+msgstr ""
+
+#. Lyvx6Ltz5U2.name
+msgid "MR 2 doses given"
+msgstr ""
+
+#. XZoyBSWNrmQ.name
+msgid "MR stock"
+msgstr ""
+
+#. cvDEEbxyL3k.name
+msgid "Name of Requester"
+msgstr ""
+
+#. C0AIlaZdXDA.name
+msgid "Name of Shipper"
+msgstr ""
+
+#. uMpsPvjYhvp.name
+msgid "Name of the reciever"
+msgstr ""
+
+#. vxRYAzMODjO.name
+msgid "Neonatal deaths"
+msgstr ""
+
+#. klP8xEwvuZF.name
+msgid "Number of doses"
+msgstr ""
+
+#. U9Ign5632j9.name
+msgid "Olav tmp HIV test"
+msgstr ""
+
+#. voPBDzxS44S.name
+msgid "Olav tmp HIV test+"
+msgstr ""
+
+#. no7SkAxepi7.name
+msgid "OPV 0"
+msgstr ""
+
+#. Tuoi3Ilwu9i.name
+msgid "OPV 0 doses given"
+msgstr ""
+
+#. CfPM8lsEMzH.name
+msgid "OPV 1"
+msgstr ""
+
+#. SaS0kTJ50dS.name
+msgid "OPV 1 doses given"
+msgstr ""
+
+#. sDORmAKh32v.name
+msgid "OPV 2"
+msgstr ""
+
+#. z5tTcNI3L0b.name
+msgid "OPV 2 doses given"
+msgstr ""
+
+#. nQeUfqPjK5o.name
+msgid "OPV 3"
+msgstr ""
+
+#. h9h4KeW4OMg.name
+msgid "OPV 3 doses given"
+msgstr ""
+
+#. cNA9EmFaiAa.name
+msgid "OPV 4"
+msgstr ""
+
+#. jLzzW5qvA2r.name
+msgid "OPV stock"
+msgstr ""
+
+#. EYQp1U4tU9z.name
+msgid "OPV stockout"
+msgstr ""
+
+#. HdzfEcDLnhX.name
+msgid "Origin Code"
+msgstr ""
+
+#. bj8Y8eduv1Q.name
+msgid "Outreach immunisation sessions held"
+msgstr ""
+
+#. zTC8xO4hdoU.name
+msgid "Outreach immunisation sessions planned"
+msgstr ""
+
+#. Xk9b7yvFi5B.name
+msgid "Parity"
+msgstr ""
+
+#. HgtY6rFKGzo.name
+msgid "Patient Care Status"
+msgstr ""
+
+#. Uj7BJ67K1ZN.name
+msgid "Patient Outcome"
+msgstr ""
+
+#. RxIYC4IGN8G.name
+msgid "Patient Status"
+msgstr ""
+
+#. fmXCCPENnwR.name
+msgid "PCV 1"
+msgstr ""
+
+#. A7VWYLfm5W1.name
+msgid "PCV 1 doses given"
+msgstr ""
+
+#. PvHUllrtPiy.name
+msgid "PCV 2"
+msgstr ""
+
+#. ag0n0p794wu.name
+msgid "PCV 2 doses given"
+msgstr ""
+
+#. B4eJCy6LFLZ.name
+msgid "PCV 3"
+msgstr ""
+
+#. w2qKmMHXW8A.name
+msgid "PCV 3 doses given"
+msgstr ""
+
+#. smpU5iethlL.name
+msgid "PCV stock"
+msgstr ""
+
+#. fyvXreKLZNn.name
+msgid "PCV stockout"
+msgstr ""
+
+#. qhU6EvPfJvi.name
+msgid "Phone Number of Requester"
+msgstr ""
+
+#. kcIuDtdn1f9.name
+msgid "PLHIV currently in care"
+msgstr ""
+
+#. GB8vLkJTRaP.name
+msgid "PLHIV currently in care 15-19 years"
+msgstr ""
+
+#. epilPusoe08.name
+msgid "PLHIV currently in care < 5 years"
+msgstr ""
+
+#. mqIVTKwfWl7.name
+msgid "PLHIV currently on ART"
+msgstr ""
+
+#. g31ZzVvPID0.name
+msgid "PLHIV new on ART (old)"
+msgstr ""
+
+#. zG6feyqbeI7.name
+msgid "PLHIV retained on ART last 12 months"
+msgstr ""
+
+#. aCkpxvnPfPU.name
+msgid "PLHIV started ART 12 months ago"
+msgstr ""
+
+#. SJhkOoSLtlD.name
+msgid "PLHIV started ART 12 months ago < 15-19 years"
+msgstr ""
+
+#. mMq620vRQT6.name
+msgid "PLHIV started ART 12 months ago < 5 years"
+msgstr ""
+
+#. o8blexx4SAI.name
+msgid "PLHIV virologically suppressed"
+msgstr ""
+
+#. MMDEdginCSv.name
+msgid "PLHIV with viral load tests"
+msgstr ""
+
+#. kGB1uxpY0P0.name
+msgid "PLHIV with viral load tests 15-19 years"
+msgstr ""
+
+#. u6THc30dyMf.name
+msgid "PLHIV with viral load tests < 5 years"
+msgstr ""
+
+#. aBpJPej3lyE.name
+msgid "Population < 1 year"
+msgstr ""
+
+#. RKeoBbjqF8z.name
+msgid "Population < 5 year"
+msgstr ""
+
+#. qXTJvDqgq30.name
+msgid "Population at risk of malaria"
+msgstr ""
+
+#. DkmMEcubiPv.name
+msgid "Population Total"
+msgstr ""
+
+#. aD5DtjWx1FY.name
+msgid "Population WRA"
+msgstr ""
+
+#. SIVUMlByXNJ.name
+msgid "Postpartum care within 2 days"
+msgstr ""
+
+#. O4GeQTPAtHV.name
+msgid "Progestin-only injectable_available"
+msgstr ""
+
+#. wdOKqu4JlrI.name
+msgid "Progestin-only injectable_provided"
+msgstr ""
+
+#. olfx3MCL7GF.name
+msgid "Progestin-only oral_available"
+msgstr ""
+
+#. cp02HQwmnaO.name
+msgid "Progestin-only oral_provided"
+msgstr ""
+
+#. KPjMlc8litX.name
+msgid "Prolonged Fever"
+msgstr ""
+
+#. HEtrAVWWNWu.name
+msgid "Rota stock"
+msgstr ""
+
+#. nIqQYeSwU9E.name
+msgid "RV 1"
+msgstr ""
+
+#. e8CQ1VjzOnL.name
+msgid "RV 1 doses given"
+msgstr ""
+
+#. wYg2gOWSyJG.name
+msgid "RV 2"
+msgstr ""
+
+#. GxvFEXfTWcN.name
+msgid "RV 2 doses given"
+msgstr ""
+
+#. irQPcNG21Uf.name
+msgid "RV stockout"
+msgstr ""
+
+#. XLHFzUzuKOy.name
+msgid "Safety boxes stock"
+msgstr ""
+
+#. CfIXMevopn9.name
+msgid "Sample Test result (Number - Range)"
+msgstr ""
+
+#. vWzprjvsejf.name
+msgid "Sample Test result (Positive/Negative)"
+msgstr ""
+
+#. gfyOTsK0thB.name
+msgid "Sdilution 2ml stock"
+msgstr ""
+
+#. Vfu6scvhSXi.name
+msgid "Sdilution 5ml stock"
+msgstr ""
+
+#. x8P6umhpmdz.name
+msgid "Staff - Adolescent Health Training"
+msgstr ""
+
+#. plbaQZltZr7.name
+msgid "Staff - ANC Training"
+msgstr ""
+
+#. vKcagXew9Zm.name
+msgid "Staff - Facility"
+msgstr ""
+
+#. A9ozqsh0OZQ.name
+msgid "Staff - Family Planning Training"
+msgstr ""
+
+#. YR6D4CV8j1V.name
+msgid "Staff - IPTp Training"
+msgstr ""
+
+#. xU1SVCCoKPi.name
+msgid "Status of the sample"
+msgstr ""
+
+#. rFt7kbJ78S1.name
+msgid "Suspected AEFI - mild"
+msgstr ""
+
+#. Am7dwpJpxxO.name
+msgid "Suspected AEFI - severe"
+msgstr ""
+
+#. epJwEj2yL7Y.name
+msgid "Suspected Dengue"
+msgstr ""
+
+#. RGCau1nwMJM.name
+msgid "Suspected Disease/Case"
+msgstr ""
+
+#. et2jVMdDApL.name
+msgid "TB new on treatment"
+msgstr ""
+
+#. mkK0QUtUlwn.name
+msgid "TB test +ve"
+msgstr ""
+
+#. YtKBVgRdqVl.name
+msgid "TB Treatment Completed"
+msgstr ""
+
+#. DFLnvbOyBV3.name
+msgid "Test requested"
+msgstr ""
+
+#. dmHORruAHUU.name
+msgid "Test result description"
+msgstr ""
+
+#. MRQzf1h6jxU.name
+msgid "Tetanus toxoid"
+msgstr ""
+
+#. QItYVkD4cet.name
+msgid "Total inpatient deaths"
+msgstr ""
+
+#. x0ntYziG5VN.name
+msgid "Total inpatient discharges"
+msgstr ""
+
+#. OCoorCve4yV.name
+msgid "Total outpatients"
+msgstr ""
+
+#. hFvBk2Pr5uh.name
+msgid "Treatment provided"
+msgstr ""
+
+#. FSkpxHTkqLN.name
+msgid "TT 1 doses given"
+msgstr ""
+
+#. KKTW2h1CzRK.name
+msgid "TT 2 doses given"
+msgstr ""
+
+#. C6JUTIT9b7f.name
+msgid "TT 3 doses given"
+msgstr ""
+
+#. Fqf7g1SMZPO.name
+msgid "TT 4 doses given"
+msgstr ""
+
+#. Y4eiHr1VKSp.name
+msgid "TT 5 doses given"
+msgstr ""
+
+#. BKuys95yN1Z.name
+msgid "TT stock"
+msgstr ""
+
+#. IC9XEEsodGI.name
+msgid "Type of Case"
+msgstr ""
+
+#. AJ3xqlLOcay.name
+msgid "Type of sample"
+msgstr ""
+
+#. CoxQ218gmSO.name
+msgid "Vaccination cards stock"
+msgstr ""
+
+#. P7PfqI0iqoX.name
+msgid "Watery diarrheoa"
+msgstr ""
+
+#. e89hG7SQsau.name
+msgid "Weight (in kg)"
+msgstr ""
+
+#. e8ROcIxppXJ.name
+msgid "Women receiving IPTp 1"
+msgstr ""
+
+#. YKDypDPlEHm.name
+msgid "Women receiving IPTp 2"
+msgstr ""
+
+#. vC4lN60iPE9.name
+msgid "Women receiving IPTp 4"
+msgstr ""
+
+#. wlyoQSROP3w.name
+msgid "Yellow fever doses given"
+msgstr ""
+
+#. UaKeVOQa9pJ.name
+msgid "Yellow fever stock"
+msgstr ""

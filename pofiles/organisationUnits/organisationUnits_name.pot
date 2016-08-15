@@ -1,0 +1,808 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translator@dhis2.org\n"
+"POT-Creation-Date: 2016-08-11 14:00+0100\n"
+"PO-Revision-Date: 2016-08-11 14:00+0100\n"
+"Last-Translator: John Traore <translator@dhis2.org>\n"
+"Language-Team: DHIS2 Development Team <post@dhis2.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. WmxhguWbumu.name
+msgid "Afghan Dispensary"
+msgstr ""
+
+#. IwVcyqPpdX7.name
+msgid "Alsatian Primary Health Centre"
+msgstr ""
+
+#. Rl9q91m5t42.name
+msgid "Angelfish Private Hospital"
+msgstr ""
+
+#. zj9LoeErgkP.name
+msgid "Animal Region"
+msgstr ""
+
+#. r2XpcXE2tdD.name
+msgid "Apple District Hospital"
+msgstr ""
+
+#. Dp0pSGVjnNi.name
+msgid "Asparagus Primary Health Centre"
+msgstr ""
+
+#. OkGC5y7DGYJ.name
+msgid "Bambi Dispensary"
+msgstr ""
+
+#. pcpNh7xD1eV.name
+msgid "Banana Health Centre"
+msgstr ""
+
+#. pNGTNKtkhu7.name
+msgid "Beagle Hospital Gateway PHC"
+msgstr ""
+
+#. C2tMM0uxQXD.name
+msgid "Beaver Dispensary"
+msgstr ""
+
+#. VvmS1GadjMd.name
+msgid "Beetle Health Centre"
+msgstr ""
+
+#. CKhQYq9KAB2.name
+msgid "Belgian shepherd Primary Health Centre"
+msgstr ""
+
+#. fZPexvXygVg.name
+msgid "Big Five Health Centre"
+msgstr ""
+
+#. Hq1ZHMHGvQE.name
+msgid "Bird District"
+msgstr ""
+
+#. ojNRpZjmKDZ.name
+msgid "Bloodsucker Primary Health Centre"
+msgstr ""
+
+#. WIo5lnio9WB.name
+msgid "Blueberry Site"
+msgstr ""
+
+#. WMhj9GCexqQ.name
+msgid "Braai Health Centre"
+msgstr ""
+
+#. WUWarOnWVel.name
+msgid "Broccoli Health Centre"
+msgstr ""
+
+#. YbsorfuGoiQ.name
+msgid "Brown bear Dispensary"
+msgstr ""
+
+#. yvFsgkXpo8q.name
+msgid "Brownie Site"
+msgstr ""
+
+#. Necpu4YJKgp.name
+msgid "Buffalo Private medical practice"
+msgstr ""
+
+#. w6rz1PvY2RX.name
+msgid "Bulldog Health Centre"
+msgstr ""
+
+#. KfX3wDgyT1W.name
+msgid "Burrito Private medical Practice"
+msgstr ""
+
+#. lZ68f3Bf6XT.name
+msgid "Butterfly Primary Health Centre"
+msgstr ""
+
+#. ezsGHqkqHOg.name
+msgid "Cake Hospital Gateway PHC"
+msgstr ""
+
+#. V5XvX1wr1kF.name
+msgid "Cardinal Hospital Gateway PHC"
+msgstr ""
+
+#. y4v3vPicZkh.name
+msgid "Carrot Hospital Gateway Primary health Clinic"
+msgstr ""
+
+#. qj1PdaHFyei.name
+msgid "Cassava Hospital Gateway PHC"
+msgstr ""
+
+#. P8hBn1kPPau.name
+msgid "Cat District"
+msgstr ""
+
+#. YfvoyE8tTrk.name
+msgid "Catfish Private Hospital"
+msgstr ""
+
+#. EeqNxslHnV4.name
+msgid "Cauliflower Dispensary"
+msgstr ""
+
+#. OVb1LxLgsFV.name
+msgid "Celery Health Centre"
+msgstr ""
+
+#. QMvB1PT8WDG.name
+msgid "Cheesecake Site"
+msgstr ""
+
+#. RI95HQRHbKc.name
+msgid "Cheetah Health Centre"
+msgstr ""
+
+#. uTFJpvH36Vm.name
+msgid "Cherry Primary Health Centre"
+msgstr ""
+
+#. bq1jbeegPOD.name
+msgid "Chicken masala Dispensary"
+msgstr ""
+
+#. uMYvwnQhA4f.name
+msgid "Chocolate Dispensary"
+msgstr ""
+
+#. bfZ1O3E87wp.name
+msgid "Cockroach Dispensary"
+msgstr ""
+
+#. RB7KD9WsDlM.name
+msgid "Cookie Health Centre"
+msgstr ""
+
+#. TlGXCt8K0wW.name
+msgid "Cream Cake Hospital Gateway PHC"
+msgstr ""
+
+#. bxD809WdYdB.name
+msgid "Crocodile Hospital Gateway PHC"
+msgstr ""
+
+#. iH7LSuDKBxU.name
+msgid "Crow Health Centre"
+msgstr ""
+
+#. d6h4mMLlhK5.name
+msgid "Cupcake Primary Health Centre"
+msgstr ""
+
+#. HTSM9KaKqPP.name
+msgid "Daggertooth Private medical practice"
+msgstr ""
+
+#. jaKRYUT9vyI.name
+msgid "Dalmatian Dispensary"
+msgstr ""
+
+#. dfwzdqmiKAO.name
+msgid "Dalmatian Private Hospital"
+msgstr ""
+
+#. CQ33BRIBwtK.name
+msgid "Deer Dispensary"
+msgstr ""
+
+#. vUamP5PpJsx.name
+msgid "Dessert District"
+msgstr ""
+
+#. OduJsPAqZki.name
+msgid "Dingo Health Centre"
+msgstr ""
+
+#. WZBBfmci0Hi.name
+msgid "Dinner District"
+msgstr ""
+
+#. kocbUkgwz69.name
+msgid "Doberman Pinscher Health Centre"
+msgstr ""
+
+#. U51HyyjrIjK.name
+msgid "Dog District"
+msgstr ""
+
+#. j6wkSM91BIq.name
+msgid "Eel Specialist Hospital"
+msgstr ""
+
+#. WmVbz13kTBZ.name
+msgid "Eggplant Health Centre"
+msgstr ""
+
+#. oz10AmGG6c7.name
+msgid "Elephant District Hospital"
+msgstr ""
+
+#. gwjRX1LH5vn.name
+msgid "Elephantnose Hospital Gateway PHC"
+msgstr ""
+
+#. uxeKkkTXQBJ.name
+msgid "Feral Primary Health Centre"
+msgstr ""
+
+#. I33odCYFs58.name
+msgid "Fish District"
+msgstr ""
+
+#. DdtBH3j84g1.name
+msgid "Flounder Health Centre"
+msgstr ""
+
+#. w0wZQd3KPKr.name
+msgid "Fly Hospital Gateway PHC"
+msgstr ""
+
+#. gwAcS6gaz7D.name
+msgid "Food Region"
+msgstr ""
+
+#. LpDbqIl6guV.name
+msgid "Fruit District"
+msgstr ""
+
+#. RFAMBnKbnZe.name
+msgid "Game District"
+msgstr ""
+
+#. e6L2k3JjTxD.name
+msgid "Gelato Dispensary"
+msgstr ""
+
+#. Ec0GNLtOnoS.name
+msgid "Ginger Dispensary"
+msgstr ""
+
+#. q7P54zQG0Uf.name
+msgid "Golden Retriever District hospital"
+msgstr ""
+
+#. ECOV3drMafD.name
+msgid "Goldfish Private Hospital"
+msgstr ""
+
+#. csNZgLGPaL9.name
+msgid "Goofy Dispensary"
+msgstr ""
+
+#. R9MWqBvxXxt.name
+msgid "Grasshopper Health Centre"
+msgstr ""
+
+#. sEMaLkKqWLE.name
+msgid "Great Dane Health Centre"
+msgstr ""
+
+#. OwLmI8wZdZI.name
+msgid "Great White Specialist Hospital"
+msgstr ""
+
+#. akpmfCSLdMN.name
+msgid "Guppy Primary Health Centre"
+msgstr ""
+
+#. BmcsKufPn8U.name
+msgid "Hamburger District hospital"
+msgstr ""
+
+#. cMLOF30VpCw.name
+msgid "Hare Health Centre"
+msgstr ""
+
+#. TUuevSKKmsz.name
+msgid "Hatchetfish Primary Health Centre"
+msgstr ""
+
+#. AsgiIABsA69.name
+msgid "Hawk Primary Health Centre"
+msgstr ""
+
+#. Q40K33wNauP.name
+msgid "Herring Health Centre"
+msgstr ""
+
+#. W27Kq018kag.name
+msgid "Honeybee Primary Health Centre"
+msgstr ""
+
+#. hicXtxfL3HQ.name
+msgid "Hot dog Primary Health Centre"
+msgstr ""
+
+#. V2KZAhSpEO5.name
+msgid "Hound Private Medical Practice"
+msgstr ""
+
+#. FzEtybygNok.name
+msgid "Houndshark Primary Health Centre"
+msgstr ""
+
+#. FYMmPNORsYz.name
+msgid "Ice Cream Dispensary"
+msgstr ""
+
+#. BnvECXxYx5C.name
+msgid "Ice Cream district Hospital"
+msgstr ""
+
+#. MBld7SJPOZ6.name
+msgid "Inja Primary Health Centre"
+msgstr ""
+
+#. R7TPl8q81Ft.name
+msgid "Insect District"
+msgstr ""
+
+#. SRt5rtpvrfs.name
+msgid "Inyanga Primary Health Centre"
+msgstr ""
+
+#. uIv8hiEdGi9.name
+msgid "Jelly Bean Primary Health Centre"
+msgstr ""
+
+#. aT9aQ3FlPnv.name
+msgid "Killifish Primary Health Centre"
+msgstr ""
+
+#. ttXGyE3fH40.name
+msgid "Kissingfish Primary Health Centre"
+msgstr ""
+
+#. pdBUBU6bCcS.name
+msgid "Knifefish Health Centre"
+msgstr ""
+
+#. VijlVVF2Sst.name
+msgid "Knifefish Hospital Gateway PHC"
+msgstr ""
+
+#. luBypl1lEhb.name
+msgid "Kudu Private Medical Practice"
+msgstr ""
+
+#. LSvieArf5ky.name
+msgid "Labrador Retriever Private Hospital"
+msgstr ""
+
+#. TZ7Dt0R4S8b.name
+msgid "Lamb Vindaloo Dispensary"
+msgstr ""
+
+#. EFKlmmHoPLM.name
+msgid "Lasagna Private Hospital"
+msgstr ""
+
+#. GobTuySPmIH.name
+msgid "Lemon Primary Health Centre"
+msgstr ""
+
+#. VkxNyvaLtoz.name
+msgid "Leopard"
+msgstr ""
+
+#. EwVvQ2DJz9X.name
+msgid "Lightfish Primary Health Centre"
+msgstr ""
+
+#. gsTTPvFXTAk.name
+msgid "Lion District Hospital"
+msgstr ""
+
+#. mTaJs9gNVox.name
+msgid "Lobster thermidor Dispensary"
+msgstr ""
+
+#. mWleosU4gvP.name
+msgid "Lollipop Primary Health Centre"
+msgstr ""
+
+#. Dbn2dgx2N3Q.name
+msgid "Lone wolf Primary Health Centre"
+msgstr ""
+
+#. Nq1gDHXQsAr.name
+msgid "Lunch bar Health Centre"
+msgstr ""
+
+#. nH4VO4bmcP0.name
+msgid "Lynx Primary Health Centre"
+msgstr ""
+
+#. MAQUGex4wew.name
+msgid "Maize District Hospital"
+msgstr ""
+
+#. Y6yTKOys07o.name
+msgid "Marimba Dispensary"
+msgstr ""
+
+#. Zu2RjXnLg8S.name
+msgid "Mars Bar District Hospital"
+msgstr ""
+
+#. r3g4mnbvOmF.name
+msgid "Matoke Dispensary"
+msgstr ""
+
+#. cAnB5u0rXgA.name
+msgid "Matoke Health Centre"
+msgstr ""
+
+#. xPV3lHoEvHE.name
+msgid "Mboga Mboga Dispensary"
+msgstr ""
+
+#. L0zR7KtI7vC.name
+msgid "Menthol Dispensary"
+msgstr ""
+
+#. IoJ6qBylZh5.name
+msgid "Minnow District Hospital"
+msgstr ""
+
+#. CFYSHChoUev.name
+msgid "Mishikaki Primary Health Centre"
+msgstr ""
+
+#. LPrtIpVzYai.name
+msgid "Mongrel Dispensary"
+msgstr ""
+
+#. NYDDyCICYU1.name
+msgid "Moonfish Primary Health Centre"
+msgstr ""
+
+#. nVFuXXH6wCY.name
+msgid "Mosquito District hospital"
+msgstr ""
+
+#. Yr6Ckh8F9el.name
+msgid "Mosquitofish Health Centre"
+msgstr ""
+
+#. fdV5T8VTWdJ.name
+msgid "Moth Dispensary"
+msgstr ""
+
+#. PVQjKKXnvfh.name
+msgid "Mudsucker Private medical practice"
+msgstr ""
+
+#. H3QBo2PckVA.name
+msgid "Mullet Health Centre"
+msgstr ""
+
+#. KolCiehm3Kw.name
+msgid "Njera Primary Health Centre"
+msgstr ""
+
+#. M0IKec2sv7e.name
+msgid "Nougat Dispensary"
+msgstr ""
+
+#. ikgHl6LmiwI.name
+msgid "Nurse shark Private medical practice"
+msgstr ""
+
+#. C1s1y59AQZV.name
+msgid "Oats Dispensary"
+msgstr ""
+
+#. MuKIKTFAb0d.name
+msgid "Oldwife Health Centre"
+msgstr ""
+
+#. hgjfjzdmrSt.name
+msgid "Onion Primary Health Centre"
+msgstr ""
+
+#. KnekE1j7rJo.name
+msgid "Orange Hospital Gateway Primary health centre"
+msgstr ""
+
+#. I0kJ6w407ud.name
+msgid "Orangestriped triggerfish Health Centre"
+msgstr ""
+
+#. wg3Wf0yHZ3T.name
+msgid "Ostrich Health Centre"
+msgstr ""
+
+#. PwOdmPqofaP.name
+msgid "Owl Dispensary"
+msgstr ""
+
+#. nJ0ePThjFMi.name
+msgid "Pad Thai Health Centre"
+msgstr ""
+
+#. wZTTKO3PULg.name
+msgid "Panga Health Centre"
+msgstr ""
+
+#. NR9TAx2SccV.name
+msgid "Panther"
+msgstr ""
+
+#. FdCQUt95CFP.name
+msgid "Parrot District Hospital"
+msgstr ""
+
+#. BX67oc30yzO.name
+msgid "Parrotfish Health Centre"
+msgstr ""
+
+#. Yd1pGti37aM.name
+msgid "Peach Health Centre"
+msgstr ""
+
+#. i9OPTHmqagU.name
+msgid "Peacock Dispensary"
+msgstr ""
+
+#. A72ORzFo0gH.name
+msgid "Pear Health Centre"
+msgstr ""
+
+#. bFt5ChWVyNz.name
+msgid "Peas Primary Health Centre"
+msgstr ""
+
+#. Gn9tsb9wAzM.name
+msgid "Peche Serra Hospital Gateway PHC"
+msgstr ""
+
+#. PnruRkkvCbs.name
+msgid "Pie Health Centre"
+msgstr ""
+
+#. Ej3mGRmi6Xf.name
+msgid "Pigeon Primary Health Centre"
+msgstr ""
+
+#. NGTNXbOtv2v.name
+msgid "Pilau Primary Health Centre"
+msgstr ""
+
+#. szzylBN5MoD.name
+msgid "Pilchard Health Centre"
+msgstr ""
+
+#. YEvwYiJGlXb.name
+msgid "Pineapple Site"
+msgstr ""
+
+#. HzXVOvhrqOh.name
+msgid "Piranha Private Hospital"
+msgstr ""
+
+#. PXwGrXKOUts.name
+msgid "Pirate perch Health Centre"
+msgstr ""
+
+#. QKlbVwdHNFd.name
+msgid "Pizza Private medical Practice"
+msgstr ""
+
+#. qFI9i63nlbO.name
+msgid "Plantain Health Centre"
+msgstr ""
+
+#. ZUwksatWvE8.name
+msgid "Pollock Health Centre"
+msgstr ""
+
+#. UpagDmjlDav.name
+msgid "Poodle Private medical practice"
+msgstr ""
+
+#. K3uS5n4WfFS.name
+msgid "Potato District Hospital"
+msgstr ""
+
+#. g8XzLyaONsU.name
+msgid "Prawn Curry Primary Health Centre"
+msgstr ""
+
+#. etOr4PLXmfN.name
+msgid "Pudding Primary Health Centre"
+msgstr ""
+
+#. izP3MJF4Ic8.name
+msgid "Pug Private medical practice"
+msgstr ""
+
+#. q4u5ODUDUrF.name
+msgid "Pussy Dispensary"
+msgstr ""
+
+#. xks22SpFk0g.name
+msgid "Rabbit Dispensary"
+msgstr ""
+
+#. kC5dNI5LwDE.name
+msgid "Radish Dispensary"
+msgstr ""
+
+#. QT7aaeiAYRi.name
+msgid "Ravioli Health Centre"
+msgstr ""
+
+#. yoXCEppLRTM.name
+msgid "Red Deer Health Centre"
+msgstr ""
+
+#. ZhVLYnZhCfQ.name
+msgid "Reindeer Primary Health Centre"
+msgstr ""
+
+#. Pclu0xAj69w.name
+msgid "Rhinoceros Health Centre"
+msgstr ""
+
+#. RSjfXWFZ9CH.name
+msgid "Rhino Private Hospital"
+msgstr ""
+
+#. n8aHcLl9rQp.name
+msgid "Rice Primary Health Centre"
+msgstr ""
+
+#. deGdCNLzUzh.name
+msgid "Robin Primary Health Centre"
+msgstr ""
+
+#. NwkthB3O0LF.name
+msgid "Rosbife Primary Health Centre"
+msgstr ""
+
+#. WtCvuUyUrTp.name
+msgid "Sadza Primary Health Centre"
+msgstr ""
+
+#. KSckF0AHf9R.name
+msgid "Salmon Health Centre"
+msgstr ""
+
+#. N8RIoRIlVaH.name
+msgid "Salty Dog Dispensary"
+msgstr ""
+
+#. ZO8O9OgCJJ6.name
+msgid "Siamese Primary Health Centre"
+msgstr ""
+
+#. veseqKf90tV.name
+msgid "Sole Dispensary"
+msgstr ""
+
+#. lc5QBDao3XT.name
+msgid "Sorbet Site"
+msgstr ""
+
+#. qENuwxwuDwI.name
+msgid "Spaghetti Health Centre"
+msgstr ""
+
+#. kWGPYDoqhFL.name
+msgid "Spider Dispensary"
+msgstr ""
+
+#. yWdkzpGgzmZ.name
+msgid "Springbok Private medical practice"
+msgstr ""
+
+#. XBfo4qN05fj.name
+msgid "Staple District"
+msgstr ""
+
+#. b8bjwpvaHm7.name
+msgid "Steak Private Hospital"
+msgstr ""
+
+#. ah5C0R2Tckz.name
+msgid "Stingray Dispensary"
+msgstr ""
+
+#. rLbiGSEZves.name
+msgid "Strawberry Primary Health Centre"
+msgstr ""
+
+#. fVut4DfhIul.name
+msgid "Sunfish Health Centre"
+msgstr ""
+
+#. r5Bfgg69bPK.name
+msgid "Sushi Hospital Gateway Primary health centre"
+msgstr ""
+
+#. Ffm4RpW79MF.name
+msgid "Sweet District"
+msgstr ""
+
+#. nqVNNrb2JTL.name
+msgid "Taco Private medical Practice"
+msgstr ""
+
+#. uHZq2uQIMAA.name
+msgid "Terrier Dispensary"
+msgstr ""
+
+#. lQPIAjJ8J47.name
+msgid "Tiger Hospital Gateway PHC"
+msgstr ""
+
+#. WlcZleuE19q.name
+msgid "Tiger Shark Health Centre"
+msgstr ""
+
+#. GD7TowwI46c.name
+msgid "Trainingland"
+msgstr ""
+
+#. jZRTJ1O4bKg.name
+msgid "Trout Private Hospital"
+msgstr ""
+
+#. NdVN7dPxNNl.name
+msgid "Ugali Dispensary"
+msgstr ""
+
+#. Pk8hbzFtcNN.name
+msgid "Vanilla Custard Health Centre"
+msgstr ""
+
+#. qo2afflttVq.name
+msgid "Vegetable District"
+msgstr ""
+
+#. waEvzkCPJLV.name
+msgid "Viperfish Health Centre"
+msgstr ""
+
+#. DPzoXOq7los.name
+msgid "Whale Regional Hospital"
+msgstr ""
+
+#. u9Z2bPgqqD7.name
+msgid "Wild boar Primary Health Centre"
+msgstr ""
+
+#. opRst8Kk7VU.name
+msgid "Wildcat Primary Health Centre"
+msgstr ""
+
+#. QAsgboVXFjE.name
+msgid "Woodpecker Health Centre"
+msgstr ""
+
+#. SjC6hnWR24E.name
+msgid "Worm Dispensary"
+msgstr ""
+
+#. W8KeHaISiYy.name
+msgid "Yam Health Centre"
+msgstr ""
+
+#. R4RtoSooUeo.name
+msgid "Zebra Private Hospital"
+msgstr ""

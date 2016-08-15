@@ -1,0 +1,44 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translator@dhis2.org\n"
+"POT-Creation-Date: 2016-08-11 14:00+0100\n"
+"PO-Revision-Date: 2016-08-11 14:00+0100\n"
+"Last-Translator: John Traore <translator@dhis2.org>\n"
+"Language-Team: DHIS2 Development Team <post@dhis2.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. dNmQidZnQmL.name
+msgid "Age (above/below 15 months)"
+msgstr ""
+
+#. yqWKwIGgo3X.name
+msgid "Age (above/below 1 year)"
+msgstr ""
+
+#. WSOP7J40VfD.name
+msgid "Age (above/below 5 years)"
+msgstr ""
+
+#. QSWQXtbc5mv.name
+msgid "default"
+msgstr ""
+
+#. FRwO58KwwJt.name
+msgid "Gender"
+msgstr ""
+
+#. smOoBl0O7ep.name
+msgid "HIV service"
+msgstr ""
+
+#. FJyR8L7xjGS.name
+msgid "Pregnant women/others"
+msgstr ""
+
+#. IXpsMf1D1mx.name
+msgid "Stock management"
+msgstr ""

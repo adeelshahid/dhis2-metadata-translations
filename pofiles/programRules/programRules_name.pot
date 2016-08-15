@@ -1,0 +1,404 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translator@dhis2.org\n"
+"POT-Creation-Date: 2016-08-11 14:00+0100\n"
+"PO-Revision-Date: 2016-08-11 14:00+0100\n"
+"Last-Translator: John Traore <translator@dhis2.org>\n"
+"Language-Team: DHIS2 Development Team <post@dhis2.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. XOFa9yRllQM.name
+msgid "Adolescent Health Trained Staff > Facility Staff"
+msgstr ""
+
+#. bZj2zXX7yV3.name
+msgid "Age is > 28 days (part 1)"
+msgstr ""
+
+#. uZcPZR1LXtW.name
+msgid "Age is > 28 days (part 2)"
+msgstr ""
+
+#. SuhoO4zYZLI.name
+msgid "Age is not set"
+msgstr ""
+
+#. FDi3CgsAO32.name
+msgid "Age not set - warning when filling Part 1"
+msgstr ""
+
+#. Q1kblbyM9tC.name
+msgid "Age under 24 hrs not possible"
+msgstr ""
+
+#. b2UWx1ERomF.name
+msgid "ANC Section"
+msgstr ""
+
+#. p66IIOZVd60.name
+msgid "ANC Trained Staff > Facility Staff"
+msgstr ""
+
+#. rhispzm1091.name
+msgid "Assign age string days"
+msgstr ""
+
+#. rhispzm1093.name
+msgid "Assign age string months"
+msgstr ""
+
+#. rhispzm1092.name
+msgid "Assign age string weeks"
+msgstr ""
+
+#. rhispzm1087.name
+msgid "Assign BCG due"
+msgstr ""
+
+#. rhispzm1058.name
+msgid "Assign BCGNeeded"
+msgstr ""
+
+#. rhispzm1085.name
+msgid "Assign BCG not due"
+msgstr ""
+
+#. rhispzm1086.name
+msgid "Assign BCG Repeat not due"
+msgstr ""
+
+#. rhispzm1071.name
+msgid "Assign DPT1 not due"
+msgstr ""
+
+#. rhispzm1072.name
+msgid "Assign DPT2 not due"
+msgstr ""
+
+#. rhispzm1073.name
+msgid "Assign DPT3 not due"
+msgstr ""
+
+#. rhispzm1074.name
+msgid "Assign DPT due"
+msgstr ""
+
+#. rhispzm1030.name
+msgid "Assign DPTNeeded"
+msgstr ""
+
+#. rhispzm1082.name
+msgid "Assign Measles1 not due"
+msgstr ""
+
+#. rhispzm1083.name
+msgid "Assign Measles2 not due"
+msgstr ""
+
+#. rhispzm1084.name
+msgid "Assign Measles due"
+msgstr ""
+
+#. rhispzm1050.name
+msgid "Assign measlesNeeded"
+msgstr ""
+
+#. rhispzm1065.name
+msgid "Assign OPV0 not due"
+msgstr ""
+
+#. rhispzm1066.name
+msgid "Assign OPV1 not due"
+msgstr ""
+
+#. rhispzm1067.name
+msgid "Assign OPV2 not due"
+msgstr ""
+
+#. rhispzm1068.name
+msgid "Assign OPV3 not due"
+msgstr ""
+
+#. rhispzm1069.name
+msgid "Assign OPV4 not due"
+msgstr ""
+
+#. rhispzm1070.name
+msgid "Assign OPV due"
+msgstr ""
+
+#. rhispzm1022.name
+msgid "Assign OPVNeeded"
+msgstr ""
+
+#. rhispzm1075.name
+msgid "Assign PCV1 not due"
+msgstr ""
+
+#. rhispzm1076.name
+msgid "Assign PCV2 not due"
+msgstr ""
+
+#. rhispzm1077.name
+msgid "Assign PCV3 not due"
+msgstr ""
+
+#. rhispzm1078.name
+msgid "Assign PCV due"
+msgstr ""
+
+#. rhispzm1038.name
+msgid "Assign PCVNeeded"
+msgstr ""
+
+#. rhispzm1079.name
+msgid "Assign RV1 not due"
+msgstr ""
+
+#. rhispzm1080.name
+msgid "Assign RV2 not due"
+msgstr ""
+
+#. rhispzm1081.name
+msgid "Assign RV due"
+msgstr ""
+
+#. rhispzm1044.name
+msgid "Assign RVNeeded"
+msgstr ""
+
+#. bC56im19lTx.name
+msgid "Birth date is known"
+msgstr ""
+
+#. mSdda5ltDoi.name
+msgid "Birth date is unknown"
+msgstr ""
+
+#. Q8Am9abKTFJ.name
+msgid "Birth date unknown is unchecked"
+msgstr ""
+
+#. npVHCJ39QZO.name
+msgid "Cause A diagnosis not set"
+msgstr ""
+
+#. HmRzk2UoYF0.name
+msgid "Cause A is underlying"
+msgstr ""
+
+#. hLkLpkwmxlx.name
+msgid "Cause A - specify"
+msgstr ""
+
+#. RrZMPm9gg26.name
+msgid "Cause B diagnosis not set"
+msgstr ""
+
+#. drqdLeOTlLh.name
+msgid "Cause B is underlying"
+msgstr ""
+
+#. H48tvRWnGWK.name
+msgid "Cause B not set"
+msgstr ""
+
+#. ShN7ukrXAig.name
+msgid "Cause B - specify"
+msgstr ""
+
+#. IICbXDbdL6m.name
+msgid "Cause C diagnosis not set"
+msgstr ""
+
+#. OZcaa4PVi1A.name
+msgid "Cause C is underlying"
+msgstr ""
+
+#. EQm1qiMfAV5.name
+msgid "Cause C - specify"
+msgstr ""
+
+#. xQnW2JqS9JP.name
+msgid "Cause D diagnosis not set"
+msgstr ""
+
+#. pBR3cy5lGw1.name
+msgid "Cause D is underlying"
+msgstr ""
+
+#. NREgDr41Oqk.name
+msgid "Cause D - specify"
+msgstr ""
+
+#. DDZ6pEgqKXV.name
+msgid "Date of birth before or on date of death"
+msgstr ""
+
+#. t7N6U0gXJGG.name
+msgid "Family Planning Section"
+msgstr ""
+
+#. i9Vyn5W0EBV.name
+msgid "FP Trained Staff > Facility Staff"
+msgstr ""
+
+#. rhispzm1056.name
+msgid "Hide BCG"
+msgstr ""
+
+#. rhispzm1052.name
+msgid "Hide BCG repeat"
+msgstr ""
+
+#. rhispzm1051.name
+msgid "Hide BCG scar"
+msgstr ""
+
+#. rhispzm1054.name
+msgid "Hide BCG stockout"
+msgstr ""
+
+#. rhispzm1059.name
+msgid "Hide breastfeeding"
+msgstr ""
+
+#. rhispzm1023.name
+msgid "Hide DPT1"
+msgstr ""
+
+#. rhispzm1025.name
+msgid "Hide DPT2"
+msgstr ""
+
+#. rhispzm1027.name
+msgid "Hide DPT3"
+msgstr ""
+
+#. rhispzm1029.name
+msgid "Hide DPT stockout"
+msgstr ""
+
+#. rhispzm1045.name
+msgid "Hide measles1"
+msgstr ""
+
+#. rhispzm1047.name
+msgid "Hide measles2"
+msgstr ""
+
+#. rhispzm1049.name
+msgid "Hide Measles stockout"
+msgstr ""
+
+#. p3guzC17TNY.name
+msgid "Hide Medicines and Stock"
+msgstr ""
+
+#. rhispzm1010.name
+msgid "Hide OPV0"
+msgstr ""
+
+#. rhispzm1012.name
+msgid "Hide OPV1"
+msgstr ""
+
+#. rhispzm1014.name
+msgid "Hide OPV2"
+msgstr ""
+
+#. rhispzm1016.name
+msgid "Hide OPV3"
+msgstr ""
+
+#. rhispzm1018.name
+msgid "Hide OPV4"
+msgstr ""
+
+#. rhispzm1021.name
+msgid "Hide OPV stockout"
+msgstr ""
+
+#. rhispzm1031.name
+msgid "Hide PCV1"
+msgstr ""
+
+#. rhispzm1033.name
+msgid "Hide PCV2"
+msgstr ""
+
+#. rhispzm1035.name
+msgid "Hide PCV3"
+msgstr ""
+
+#. rhispzm1037.name
+msgid "Hide PCV stockout"
+msgstr ""
+
+#. rhispzm1039.name
+msgid "Hide RV1"
+msgstr ""
+
+#. rhispzm1041.name
+msgid "Hide RV2"
+msgstr ""
+
+#. rhispzm1043.name
+msgid "Hide RV stockout"
+msgstr ""
+
+#. h7riGHi0Tsd.name
+msgid "IF Staff not provided Adolescent health training, hide #"
+msgstr ""
+
+#. PKbE6eNvXqE.name
+msgid "IF Staff not provided ANC training, hide #"
+msgstr ""
+
+#. DCQQktjutTV.name
+msgid "IF Staff not provided FP training, hide #"
+msgstr ""
+
+#. Fo1VSYN02WG.name
+msgid "IF Staff not provided IPTp training, hide #"
+msgstr ""
+
+#. VJUdwGFTuBT.name
+msgid "IPTp Trained Staff > Facility Staff"
+msgstr ""
+
+#. sQ0NuStgj76.name
+msgid "Low age"
+msgstr ""
+
+#. rhispzm1006.name
+msgid "Populate ages"
+msgstr ""
+
+#. rhispzm1061.name
+msgid "Populate ages based on due date"
+msgstr ""
+
+#. rhispzm1088.name
+msgid "Populate current age"
+msgstr ""
+
+#. JHORv7d5GtF.name
+msgid "Sex is not female"
+msgstr ""
+
+#. rRr53p4XkKz.name
+msgid "Sex not set - warning when filling Part 1"
+msgstr ""
+
+#. rhispzm1094.name
+msgid "Show age String"
+msgstr ""
+
+#. rhispzm1060.name
+msgid "Show warning when birth weight more than 9kgs"
+msgstr ""

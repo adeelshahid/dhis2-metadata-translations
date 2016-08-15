@@ -1,0 +1,44 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translator@dhis2.org\n"
+"POT-Creation-Date: 2016-08-11 14:00+0100\n"
+"PO-Revision-Date: 2016-08-11 14:00+0100\n"
+"Last-Translator: John Traore <translator@dhis2.org>\n"
+"Language-Team: DHIS2 Development Team <post@dhis2.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. tHmWSom2PmV.name
+msgid "ANC"
+msgstr ""
+
+#. OCn6bVHMPkb.name
+msgid "HIV PMTCT"
+msgstr ""
+
+#. jWbf0RIUhji.name
+msgid "Immunization"
+msgstr ""
+
+#. vfp2nmCAaHW.name
+msgid "Malaria"
+msgstr ""
+
+#. YymSfk1tHh7.name
+msgid "Maternal/Delivery"
+msgstr ""
+
+#. wX4Ky1he60B.name
+msgid "Outpatient/Inpatient"
+msgstr ""
+
+#. FiBBeAWNOzj.name
+msgid "Population"
+msgstr ""
+
+#. qcvsjXzRJpc.name
+msgid "TB core"
+msgstr ""

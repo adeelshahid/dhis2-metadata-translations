@@ -1,0 +1,104 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translator@dhis2.org\n"
+"POT-Creation-Date: 2016-08-11 14:00+0100\n"
+"PO-Revision-Date: 2016-08-11 14:00+0100\n"
+"Last-Translator: John Traore <translator@dhis2.org>\n"
+"Language-Team: DHIS2 Development Team <post@dhis2.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. CVYtEunMUU3.name
+msgid "Age"
+msgstr ""
+
+#. gadDM73a9BS.name
+msgid "Atl_Alison_First Name"
+msgstr ""
+
+#. QfcucWQSYZn.name
+msgid "Atl_Alison_ID Number"
+msgstr ""
+
+#. UeCABSbIjLH.name
+msgid "Atl_Alison_Sex"
+msgstr ""
+
+#. Md85b2TiVmK.name
+msgid "Atl_Alison_Surname"
+msgstr ""
+
+#. QwATZkGIPed.name
+msgid "Birth weight (in kg)"
+msgstr ""
+
+#. wbtl3uN0spv.name
+msgid "Child Number"
+msgstr ""
+
+#. L0kuWHy3dQZ.name
+msgid "Date of birth"
+msgstr ""
+
+#. rKtHjgcO2Bn.name
+msgid "Date of Birth"
+msgstr ""
+
+#. bsHdoHEjbT9.name
+msgid "Family Address"
+msgstr ""
+
+#. sB1IHYu2xQT.name
+msgid "First Name"
+msgstr ""
+
+#. ptOl3B5Sndx.name
+msgid "Gender"
+msgstr ""
+
+#. OhGYnwya3jg.name
+msgid "Last name"
+msgstr ""
+
+#. pjexi5YaAPa.name
+msgid "Mother/Caregiver's contact number"
+msgstr ""
+
+#. ftFBu8mHZ4H.name
+msgid "Mother/Caregiver's first name"
+msgstr ""
+
+#. EpbquVl5OD6.name
+msgid "Mother/Caregiver's last name"
+msgstr ""
+
+#. osmTHnpncav.name
+msgid "Mother/Caregiver's NRC number"
+msgstr ""
+
+#. QKZrKvf8RQF.name
+msgid "Patient Registration No."
+msgstr ""
+
+#. vJNJm6m0d7N.name
+msgid "Phone number"
+msgstr ""
+
+#. cGs3k0IhQmQ.name
+msgid "Place of Birth"
+msgstr ""
+
+#. tJnr3mrNs21.name
+msgid "Sex"
+msgstr ""
+
+#. ttjZl7jvrRj.name
+msgid "Village/Domicile"
+msgstr ""
+
+#. LSQ9yaymbll.name
+msgid "Zone"
+msgstr ""

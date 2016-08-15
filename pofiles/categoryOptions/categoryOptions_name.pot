@@ -1,0 +1,92 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translator@dhis2.org\n"
+"POT-Creation-Date: 2016-08-11 14:00+0100\n"
+"PO-Revision-Date: 2016-08-11 14:00+0100\n"
+"Last-Translator: John Traore <translator@dhis2.org>\n"
+"Language-Team: DHIS2 Development Team <post@dhis2.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. pY7QJjtcOvQ.name
+msgid "0-14 months"
+msgstr ""
+
+#. iCpXRIhzRpL.name
+msgid "≥ 15 months"
+msgstr ""
+
+#. NdavvgfkgR1.name
+msgid "< 1 year"
+msgstr ""
+
+#. b8y2mBp5ysN.name
+msgid "≥ 1 year"
+msgstr ""
+
+#. c6xpEXhCGk1.name
+msgid "< 5 years"
+msgstr ""
+
+#. IV1Er3qvMMV.name
+msgid "≥ 5 years"
+msgstr ""
+
+#. yjkf167xPhl.name
+msgid "Closing balance"
+msgstr ""
+
+#. bVbARe6vuMN.name
+msgid "default"
+msgstr ""
+
+#. vtWW4NIp1pz.name
+msgid "Expired"
+msgstr ""
+
+#. FFA9e1yIXCT.name
+msgid "Female"
+msgstr ""
+
+#. IVGVu3MkyJi.name
+msgid "Frozen"
+msgstr ""
+
+#. MP15bHaQh2x.name
+msgid "Male"
+msgstr ""
+
+#. p6f1f3IVTQS.name
+msgid "Opening balance"
+msgstr ""
+
+#. I0kOLNtdqRM.name
+msgid "Other"
+msgstr ""
+
+#. rdJ14klxSso.name
+msgid "PMTCT"
+msgstr ""
+
+#. DI2XEyHejPP.name
+msgid "Pregnant"
+msgstr ""
+
+#. k2WTjuZ2ZAK.name
+msgid "Received"
+msgstr ""
+
+#. Cvx2nkewzgw.name
+msgid "TB"
+msgstr ""
+
+#. SZ5r16YIXbJ.name
+msgid "Used"
+msgstr ""
+
+#. HNJWyzIl0UJ.name
+msgid "VVM3/4"
+msgstr ""

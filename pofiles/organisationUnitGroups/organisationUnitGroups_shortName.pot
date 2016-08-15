@@ -1,0 +1,72 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translator@dhis2.org\n"
+"POT-Creation-Date: 2016-08-11 14:00+0100\n"
+"PO-Revision-Date: 2016-08-11 14:00+0100\n"
+"Last-Translator: John Traore <translator@dhis2.org>\n"
+"Language-Team: DHIS2 Development Team <post@dhis2.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. nKBrAHGbDiR.shortName
+msgid "Disp"
+msgstr ""
+
+#. RXmtIWbfMJ2.shortName
+msgid "Facility"
+msgstr ""
+
+#. ZTPuxqYk9mJ.shortName
+msgid "HC"
+msgstr ""
+
+#. Y9lBaYVm9j7.shortName
+msgid "DH"
+msgstr ""
+
+#. vtIWifOe54h.shortName
+msgid "HGPHC"
+msgstr ""
+
+#. t8cXKcFvlt7.shortName
+msgid "PH"
+msgstr ""
+
+#. o7pxE4IjUuW.shortName
+msgid "RH"
+msgstr ""
+
+#. UK1OjMlAWAh.shortName
+msgid "SH"
+msgstr ""
+
+#. kFyaUgSrlJQ.shortName
+msgid "Peri-urban"
+msgstr ""
+
+#. aT5pkgRLbw5.shortName
+msgid "PHC"
+msgstr ""
+
+#. pubdYxdPL8f.shortName
+msgid "Private"
+msgstr ""
+
+#. D2QFWedK7yH.shortName
+msgid "PMP"
+msgstr ""
+
+#. ltOchiGMdfn.shortName
+msgid "Public"
+msgstr ""
+
+#. uu5n323zbYF.shortName
+msgid "Rural"
+msgstr ""
+
+#. JnRFhRgrAUm.shortName
+msgid "Urban"
+msgstr ""

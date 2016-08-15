@@ -1,0 +1,192 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translator@dhis2.org\n"
+"POT-Creation-Date: 2016-08-11 14:00+0100\n"
+"PO-Revision-Date: 2016-08-11 14:00+0100\n"
+"Last-Translator: John Traore <translator@dhis2.org>\n"
+"Language-Team: DHIS2 Development Team <post@dhis2.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. QyH4Fp8Vuhd.name
+msgid "Batch number"
+msgstr ""
+
+#. Q61bs5wNKCk.name
+msgid "CaseType"
+msgstr ""
+
+#. JIvO4cgoy2U.name
+msgid "Classification"
+msgstr ""
+
+#. BTrSHfEmP2c.name
+msgid "ClassificationFollowup"
+msgstr ""
+
+#. TnLYsW1KZOE.name
+msgid "Coding status"
+msgstr ""
+
+#. HJHRlwvDPTv.name
+msgid "Commodity Availability"
+msgstr ""
+
+#. yUqYw43XSvb.name
+msgid "Condition of sample"
+msgstr ""
+
+#. Z5IXj75X8Vl.name
+msgid "Culture Result"
+msgstr ""
+
+#. nbcADZuow7x.name
+msgid "Diagnosis - local dictionary"
+msgstr ""
+
+#. GuXxjKZFBFd.name
+msgid "Diagnosis - standard short list"
+msgstr ""
+
+#. ADQhuzGAauC.name
+msgid "Disease"
+msgstr ""
+
+#. sqFOU4shsUz.name
+msgid "Document Availability"
+msgstr ""
+
+#. dQyKW9EqPuL.name
+msgid "EPTB Site"
+msgstr ""
+
+#. eoV3DcnSvB6.name
+msgid "Family Planning Type"
+msgstr ""
+
+#. ymAlQmIJaGP.name
+msgid "Gender"
+msgstr ""
+
+#. mlL4eAz46Mf.name
+msgid "GeneXpert Result"
+msgstr ""
+
+#. TV8O85t4P0h.name
+msgid "HIV Status"
+msgstr ""
+
+#. uonQNyJi5mE.name
+msgid "Infant Feeding"
+msgstr ""
+
+#. SIizyB6pIe4.name
+msgid "ISOWeek"
+msgstr ""
+
+#. r6434g1pwWE.name
+msgid "Lab Result Details"
+msgstr ""
+
+#. sQCpm0pUiw4.name
+msgid "Lab Result POSNEG"
+msgstr ""
+
+#. NB2i8ryM8yo.name
+msgid "Lab Sample Types"
+msgstr ""
+
+#. boLBM2N8Nlk.name
+msgid "Lab test types"
+msgstr ""
+
+#. pDIfKQVivxg.name
+msgid "Manner of death"
+msgstr ""
+
+#. Xh725MLJ4nc.name
+msgid "Origin Code"
+msgstr ""
+
+#. kRoJR0YJnOs.name
+msgid "Outbreak detection method"
+msgstr ""
+
+#. rqZa0Ziv39U.name
+msgid "Outbreak Status"
+msgstr ""
+
+#. zBB0WHg8SNr.name
+msgid "Patient Outcome"
+msgstr ""
+
+#. J8vbXlGw9q1.name
+msgid "Patient Status"
+msgstr ""
+
+#. OhW3bWNSTum.name
+msgid "Place of birth"
+msgstr ""
+
+#. rlYDq7U043q.name
+msgid "Sex"
+msgstr ""
+
+#. ZdyBTEa7h7Z.name
+msgid "Sex Gender"
+msgstr ""
+
+#. p9r4Tds5xaq.name
+msgid "Sputum Smear Result"
+msgstr ""
+
+#. OWppSNV9mvV.name
+msgid "Stock-Out"
+msgstr ""
+
+#. Yuk3LNGD1OA.name
+msgid "Symptoms"
+msgstr ""
+
+#. sue2diVST85.name
+msgid "TB Disease Site"
+msgstr ""
+
+#. OyEU7fUpkWD.name
+msgid "TB Patient Type"
+msgstr ""
+
+#. LU9EZQBvid4.name
+msgid "TB Treatment Outcome"
+msgstr ""
+
+#. u9GBgUNINfM.name
+msgid "TB Treatment Type"
+msgstr ""
+
+#. nbZP1HIXQoN.name
+msgid "Time from pregnancy"
+msgstr ""
+
+#. SCQSVm7h5ez.name
+msgid "Time interval"
+msgstr ""
+
+#. SVEaiQAeyLx.name
+msgid "Vaccine Stock"
+msgstr ""
+
+#. aqXCq1Vb4yE.name
+msgid "Yes/No"
+msgstr ""
+
+#. OvgmrMd0Q0B.name
+msgid "Yes/No/Unknown"
+msgstr ""
+
+#. feOsBINoI8n.name
+msgid "Zone"
+msgstr ""
