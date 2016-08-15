@@ -1,0 +1,84 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: translator@dhis2.org\n"
+"POT-Creation-Date: 2016-08-11 14:00+0100\n"
+"PO-Revision-Date: 2016-08-11 14:00+0100\n"
+"Last-Translator: John Traore <translator@dhis2.org>\n"
+"Language-Team: DHIS2 Development Team <post@dhis2.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. ox29RENIJPg.name
+msgid "Adverse event following immunisation"
+msgstr ""
+
+#. tYbVQXJbJWd.name
+msgid "ART"
+msgstr ""
+
+#. rjgESXwj72w.name
+msgid "Care"
+msgstr ""
+
+#. YDBpu3HBnIf.name
+msgid "Cold Chain"
+msgstr ""
+
+#. phppjAgOLyd.name
+msgid "Inpatients"
+msgstr ""
+
+#. FCSdwTDg0YP.name
+msgid "Logistics"
+msgstr ""
+
+#. S7UIEbYWb9n.name
+msgid "Outpatients"
+msgstr ""
+
+#. aCGhmwIQjcm.name
+msgid "Outreach sessions"
+msgstr ""
+
+#. mDsGGJv5EB8.name
+msgid "Retention"
+msgstr ""
+
+#. W8LvycBSg19.name
+msgid "Stock management"
+msgstr ""
+
+#. EY6J1CL3Knu.name
+msgid "Testing"
+msgstr ""
+
+#. KVh3XcA565m.name
+msgid "Testing"
+msgstr ""
+
+#. xGC971qr4Hn.name
+msgid "Treatment"
+msgstr ""
+
+#. kVuVg5Ckkgh.name
+msgid "Vaccine administration 1"
+msgstr ""
+
+#. glS2Ol8c2YM.name
+msgid "Vaccine administration 2"
+msgstr ""
+
+#. cX7hHddwRzO.name
+msgid "Vaccine administration 3"
+msgstr ""
+
+#. GoWK3ypmVZS.name
+msgid "Vector Control"
+msgstr ""
+
+#. tgTLFugVe8H.name
+msgid "Viral suppression"
+msgstr ""
